@@ -1,10 +1,10 @@
-# 📊 Pakistan Mutual Fund Performance Analysis (2020–2024)
+#  Pakistan Mutual Fund Performance Analysis (2020–2024)
 
 > **End-to-end data analytics project** covering NAV performance, AUM trends, risk-adjusted returns, benchmark comparison, and investor behaviour for Pakistan's mutual fund industry — built with Python, PostgreSQL, and Power BI.
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project analyses the performance of **6 Shariah-compliant mutual funds** over a 5-year period (2020–2024), modelled on Pakistan's Asset Management Company (AMC) industry. It covers the full analytics pipeline: data generation → SQL analysis → Python EDA → Power BI dashboards.
 
@@ -31,8 +31,6 @@ mutual_fund_analysis/
 ├── sql/
 │   └── analysis_queries.sql        # 10 production-ready SQL queries
 │
-├── powerbi/
-│   └── POWERBI_SETUP.md            # Step-by-step dashboard guide + DAX
 │
 └── reports/
     ├── 01_nav_growth.png
@@ -56,15 +54,15 @@ mutual_fund_analysis/
 | Meezan Balanced Fund | Balanced | — | — |
 
 **Highlights:**
-- 🏆 **Al Meezan Mutual Fund** delivered the highest 5-year CAGR at ~28.7%
-- 💧 **Meezan Cash Fund** had the lowest volatility — best for capital preservation
-- 📉 COVID-19 (March–April 2020) caused a measurable drawdown in equity funds
-- 🏙️ **Karachi** accounts for ~45% of all investor transactions
-- 🏦 **Institutional investors** drive the highest average ticket size
+-  **Al Meezan Mutual Fund** delivered the highest 5-year CAGR at ~28.7%
+-  **Meezan Cash Fund** had the lowest volatility — best for capital preservation
+-  COVID-19 (March–April 2020) caused a measurable drawdown in equity funds
+-  **Karachi** accounts for ~45% of all investor transactions
+-  **Institutional investors** drive the highest average ticket size
 
 ---
 
-## 🔍 Analysis Modules
+##  Analysis Modules
 
 ### 1. NAV Growth & Returns
 - Indexed NAV comparison (all funds vs base 100)
@@ -95,7 +93,7 @@ mutual_fund_analysis/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -107,7 +105,7 @@ mutual_fund_analysis/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Python Analysis
 ```bash
