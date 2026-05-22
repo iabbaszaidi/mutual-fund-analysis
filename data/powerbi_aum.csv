@@ -1,0 +1,361 @@
+month,fund_id,fund_name,category,aum_million_pkr
+2020-01-01,F001,Al Meezan Mutual Fund,Equity,12050.3
+2020-02-01,F001,Al Meezan Mutual Fund,Equity,12439.98
+2020-03-01,F001,Al Meezan Mutual Fund,Equity,12803.95
+2020-04-01,F001,Al Meezan Mutual Fund,Equity,12828.18
+2020-05-01,F001,Al Meezan Mutual Fund,Equity,13040.25
+2020-06-01,F001,Al Meezan Mutual Fund,Equity,12848.04
+2020-07-01,F001,Al Meezan Mutual Fund,Equity,13247.68
+2020-08-01,F001,Al Meezan Mutual Fund,Equity,13349.22
+2020-09-01,F001,Al Meezan Mutual Fund,Equity,13372.2
+2020-10-01,F001,Al Meezan Mutual Fund,Equity,13360.81
+2020-11-01,F001,Al Meezan Mutual Fund,Equity,13469.21
+2020-12-01,F001,Al Meezan Mutual Fund,Equity,13422.93
+2021-01-01,F001,Al Meezan Mutual Fund,Equity,14023.53
+2021-02-01,F001,Al Meezan Mutual Fund,Equity,14207.82
+2021-03-01,F001,Al Meezan Mutual Fund,Equity,15241.99
+2021-04-01,F001,Al Meezan Mutual Fund,Equity,16293.02
+2021-05-01,F001,Al Meezan Mutual Fund,Equity,16264.57
+2021-06-01,F001,Al Meezan Mutual Fund,Equity,16705.19
+2021-07-01,F001,Al Meezan Mutual Fund,Equity,16796.74
+2021-08-01,F001,Al Meezan Mutual Fund,Equity,17052.06
+2021-09-01,F001,Al Meezan Mutual Fund,Equity,18502.73
+2021-10-01,F001,Al Meezan Mutual Fund,Equity,18794.57
+2021-11-01,F001,Al Meezan Mutual Fund,Equity,19467.54
+2021-12-01,F001,Al Meezan Mutual Fund,Equity,20270.38
+2022-01-01,F001,Al Meezan Mutual Fund,Equity,20168.64
+2022-02-01,F001,Al Meezan Mutual Fund,Equity,20155.48
+2022-03-01,F001,Al Meezan Mutual Fund,Equity,19930.13
+2022-04-01,F001,Al Meezan Mutual Fund,Equity,19898.65
+2022-05-01,F001,Al Meezan Mutual Fund,Equity,18694.77
+2022-06-01,F001,Al Meezan Mutual Fund,Equity,19467.56
+2022-07-01,F001,Al Meezan Mutual Fund,Equity,20861.94
+2022-08-01,F001,Al Meezan Mutual Fund,Equity,21163.08
+2022-09-01,F001,Al Meezan Mutual Fund,Equity,20475.53
+2022-10-01,F001,Al Meezan Mutual Fund,Equity,20285.45
+2022-11-01,F001,Al Meezan Mutual Fund,Equity,20209.05
+2022-12-01,F001,Al Meezan Mutual Fund,Equity,19794.2
+2023-01-01,F001,Al Meezan Mutual Fund,Equity,20502.95
+2023-02-01,F001,Al Meezan Mutual Fund,Equity,21206.36
+2023-03-01,F001,Al Meezan Mutual Fund,Equity,20683.33
+2023-04-01,F001,Al Meezan Mutual Fund,Equity,21340.08
+2023-05-01,F001,Al Meezan Mutual Fund,Equity,22530.95
+2023-06-01,F001,Al Meezan Mutual Fund,Equity,24042.25
+2023-07-01,F001,Al Meezan Mutual Fund,Equity,26349.26
+2023-08-01,F001,Al Meezan Mutual Fund,Equity,25899.75
+2023-09-01,F001,Al Meezan Mutual Fund,Equity,28353.14
+2023-10-01,F001,Al Meezan Mutual Fund,Equity,28335.39
+2023-11-01,F001,Al Meezan Mutual Fund,Equity,28115.11
+2023-12-01,F001,Al Meezan Mutual Fund,Equity,28672.13
+2024-01-01,F001,Al Meezan Mutual Fund,Equity,28458.18
+2024-02-01,F001,Al Meezan Mutual Fund,Equity,29083.45
+2024-03-01,F001,Al Meezan Mutual Fund,Equity,28222.51
+2024-04-01,F001,Al Meezan Mutual Fund,Equity,28302.59
+2024-05-01,F001,Al Meezan Mutual Fund,Equity,29677.17
+2024-06-01,F001,Al Meezan Mutual Fund,Equity,29923.14
+2024-07-01,F001,Al Meezan Mutual Fund,Equity,30349.48
+2024-08-01,F001,Al Meezan Mutual Fund,Equity,31085.69
+2024-09-01,F001,Al Meezan Mutual Fund,Equity,32488.28
+2024-10-01,F001,Al Meezan Mutual Fund,Equity,31199.9
+2024-11-01,F001,Al Meezan Mutual Fund,Equity,32059.01
+2024-12-01,F001,Al Meezan Mutual Fund,Equity,32121.71
+2020-01-01,F002,Meezan Islamic Income Fund,Income,8627.49
+2020-02-01,F002,Meezan Islamic Income Fund,Income,8988.11
+2020-03-01,F002,Meezan Islamic Income Fund,Income,8755.99
+2020-04-01,F002,Meezan Islamic Income Fund,Income,8577.54
+2020-05-01,F002,Meezan Islamic Income Fund,Income,8165.28
+2020-06-01,F002,Meezan Islamic Income Fund,Income,8112.41
+2020-07-01,F002,Meezan Islamic Income Fund,Income,8517.33
+2020-08-01,F002,Meezan Islamic Income Fund,Income,8571.69
+2020-09-01,F002,Meezan Islamic Income Fund,Income,8312.79
+2020-10-01,F002,Meezan Islamic Income Fund,Income,8274.8
+2020-11-01,F002,Meezan Islamic Income Fund,Income,7988.2
+2020-12-01,F002,Meezan Islamic Income Fund,Income,7798.43
+2021-01-01,F002,Meezan Islamic Income Fund,Income,8084.36
+2021-02-01,F002,Meezan Islamic Income Fund,Income,8001.77
+2021-03-01,F002,Meezan Islamic Income Fund,Income,8468.9
+2021-04-01,F002,Meezan Islamic Income Fund,Income,8662.55
+2021-05-01,F002,Meezan Islamic Income Fund,Income,8901.36
+2021-06-01,F002,Meezan Islamic Income Fund,Income,9049.56
+2021-07-01,F002,Meezan Islamic Income Fund,Income,9485.62
+2021-08-01,F002,Meezan Islamic Income Fund,Income,9945.62
+2021-09-01,F002,Meezan Islamic Income Fund,Income,10294.23
+2021-10-01,F002,Meezan Islamic Income Fund,Income,10726.01
+2021-11-01,F002,Meezan Islamic Income Fund,Income,10925.91
+2021-12-01,F002,Meezan Islamic Income Fund,Income,11376.78
+2022-01-01,F002,Meezan Islamic Income Fund,Income,11545.88
+2022-02-01,F002,Meezan Islamic Income Fund,Income,11835.3
+2022-03-01,F002,Meezan Islamic Income Fund,Income,12033.67
+2022-04-01,F002,Meezan Islamic Income Fund,Income,12169.45
+2022-05-01,F002,Meezan Islamic Income Fund,Income,12222.1
+2022-06-01,F002,Meezan Islamic Income Fund,Income,12699.14
+2022-07-01,F002,Meezan Islamic Income Fund,Income,13325.44
+2022-08-01,F002,Meezan Islamic Income Fund,Income,13926.86
+2022-09-01,F002,Meezan Islamic Income Fund,Income,13541.13
+2022-10-01,F002,Meezan Islamic Income Fund,Income,14200.26
+2022-11-01,F002,Meezan Islamic Income Fund,Income,14206.72
+2022-12-01,F002,Meezan Islamic Income Fund,Income,14604.82
+2023-01-01,F002,Meezan Islamic Income Fund,Income,14353.82
+2023-02-01,F002,Meezan Islamic Income Fund,Income,14558.49
+2023-03-01,F002,Meezan Islamic Income Fund,Income,14841.1
+2023-04-01,F002,Meezan Islamic Income Fund,Income,14328.51
+2023-05-01,F002,Meezan Islamic Income Fund,Income,14733.27
+2023-06-01,F002,Meezan Islamic Income Fund,Income,15475.5
+2023-07-01,F002,Meezan Islamic Income Fund,Income,15549.17
+2023-08-01,F002,Meezan Islamic Income Fund,Income,16339.15
+2023-09-01,F002,Meezan Islamic Income Fund,Income,16409.56
+2023-10-01,F002,Meezan Islamic Income Fund,Income,16991.89
+2023-11-01,F002,Meezan Islamic Income Fund,Income,16030.88
+2023-12-01,F002,Meezan Islamic Income Fund,Income,17354.44
+2024-01-01,F002,Meezan Islamic Income Fund,Income,18306.57
+2024-02-01,F002,Meezan Islamic Income Fund,Income,18333.32
+2024-03-01,F002,Meezan Islamic Income Fund,Income,17432.01
+2024-04-01,F002,Meezan Islamic Income Fund,Income,17756.95
+2024-05-01,F002,Meezan Islamic Income Fund,Income,17165.33
+2024-06-01,F002,Meezan Islamic Income Fund,Income,17566.07
+2024-07-01,F002,Meezan Islamic Income Fund,Income,17958.61
+2024-08-01,F002,Meezan Islamic Income Fund,Income,17631.01
+2024-09-01,F002,Meezan Islamic Income Fund,Income,18400.24
+2024-10-01,F002,Meezan Islamic Income Fund,Income,19028.92
+2024-11-01,F002,Meezan Islamic Income Fund,Income,19776.28
+2024-12-01,F002,Meezan Islamic Income Fund,Income,19979.29
+2020-01-01,F003,Meezan Cash Fund,Money Market,17415.62
+2020-02-01,F003,Meezan Cash Fund,Money Market,18100.68
+2020-03-01,F003,Meezan Cash Fund,Money Market,18134.87
+2020-04-01,F003,Meezan Cash Fund,Money Market,17560.11
+2020-05-01,F003,Meezan Cash Fund,Money Market,18447.97
+2020-06-01,F003,Meezan Cash Fund,Money Market,19794.35
+2020-07-01,F003,Meezan Cash Fund,Money Market,19967.8
+2020-08-01,F003,Meezan Cash Fund,Money Market,21460.86
+2020-09-01,F003,Meezan Cash Fund,Money Market,21734.26
+2020-10-01,F003,Meezan Cash Fund,Money Market,21703.54
+2020-11-01,F003,Meezan Cash Fund,Money Market,21510.08
+2020-12-01,F003,Meezan Cash Fund,Money Market,22781.59
+2021-01-01,F003,Meezan Cash Fund,Money Market,22817.94
+2021-02-01,F003,Meezan Cash Fund,Money Market,23891.71
+2021-03-01,F003,Meezan Cash Fund,Money Market,24088.22
+2021-04-01,F003,Meezan Cash Fund,Money Market,24357.79
+2021-05-01,F003,Meezan Cash Fund,Money Market,25719.57
+2021-06-01,F003,Meezan Cash Fund,Money Market,26069.33
+2021-07-01,F003,Meezan Cash Fund,Money Market,26404.48
+2021-08-01,F003,Meezan Cash Fund,Money Market,27961.93
+2021-09-01,F003,Meezan Cash Fund,Money Market,30000.96
+2021-10-01,F003,Meezan Cash Fund,Money Market,31331.23
+2021-11-01,F003,Meezan Cash Fund,Money Market,31499.07
+2021-12-01,F003,Meezan Cash Fund,Money Market,31804.03
+2022-01-01,F003,Meezan Cash Fund,Money Market,32675.38
+2022-02-01,F003,Meezan Cash Fund,Money Market,33806.86
+2022-03-01,F003,Meezan Cash Fund,Money Market,33650.13
+2022-04-01,F003,Meezan Cash Fund,Money Market,35221.3
+2022-05-01,F003,Meezan Cash Fund,Money Market,36192.19
+2022-06-01,F003,Meezan Cash Fund,Money Market,35234.13
+2022-07-01,F003,Meezan Cash Fund,Money Market,34604.58
+2022-08-01,F003,Meezan Cash Fund,Money Market,34427.27
+2022-09-01,F003,Meezan Cash Fund,Money Market,34696.29
+2022-10-01,F003,Meezan Cash Fund,Money Market,37009.78
+2022-11-01,F003,Meezan Cash Fund,Money Market,37644.32
+2022-12-01,F003,Meezan Cash Fund,Money Market,37071.26
+2023-01-01,F003,Meezan Cash Fund,Money Market,37687.34
+2023-02-01,F003,Meezan Cash Fund,Money Market,37666.14
+2023-03-01,F003,Meezan Cash Fund,Money Market,38409.77
+2023-04-01,F003,Meezan Cash Fund,Money Market,39462.85
+2023-05-01,F003,Meezan Cash Fund,Money Market,41289.07
+2023-06-01,F003,Meezan Cash Fund,Money Market,41671.88
+2023-07-01,F003,Meezan Cash Fund,Money Market,44137.55
+2023-08-01,F003,Meezan Cash Fund,Money Market,45781.27
+2023-09-01,F003,Meezan Cash Fund,Money Market,45267.46
+2023-10-01,F003,Meezan Cash Fund,Money Market,48721.17
+2023-11-01,F003,Meezan Cash Fund,Money Market,49686.32
+2023-12-01,F003,Meezan Cash Fund,Money Market,48938.36
+2024-01-01,F003,Meezan Cash Fund,Money Market,51854.47
+2024-02-01,F003,Meezan Cash Fund,Money Market,55605.27
+2024-03-01,F003,Meezan Cash Fund,Money Market,56106.24
+2024-04-01,F003,Meezan Cash Fund,Money Market,55819.56
+2024-05-01,F003,Meezan Cash Fund,Money Market,56089.1
+2024-06-01,F003,Meezan Cash Fund,Money Market,57852.65
+2024-07-01,F003,Meezan Cash Fund,Money Market,60649.0
+2024-08-01,F003,Meezan Cash Fund,Money Market,62293.47
+2024-09-01,F003,Meezan Cash Fund,Money Market,63106.51
+2024-10-01,F003,Meezan Cash Fund,Money Market,66573.6
+2024-11-01,F003,Meezan Cash Fund,Money Market,66614.54
+2024-12-01,F003,Meezan Cash Fund,Money Market,69340.91
+2020-01-01,F004,Meezan Balanced Fund,Balanced,5006.79
+2020-02-01,F004,Meezan Balanced Fund,Balanced,5121.6
+2020-03-01,F004,Meezan Balanced Fund,Balanced,5155.37
+2020-04-01,F004,Meezan Balanced Fund,Balanced,5198.28
+2020-05-01,F004,Meezan Balanced Fund,Balanced,5191.41
+2020-06-01,F004,Meezan Balanced Fund,Balanced,5452.78
+2020-07-01,F004,Meezan Balanced Fund,Balanced,5387.41
+2020-08-01,F004,Meezan Balanced Fund,Balanced,5321.65
+2020-09-01,F004,Meezan Balanced Fund,Balanced,5713.48
+2020-10-01,F004,Meezan Balanced Fund,Balanced,5938.22
+2020-11-01,F004,Meezan Balanced Fund,Balanced,5572.7
+2020-12-01,F004,Meezan Balanced Fund,Balanced,5533.93
+2021-01-01,F004,Meezan Balanced Fund,Balanced,5371.46
+2021-02-01,F004,Meezan Balanced Fund,Balanced,5352.54
+2021-03-01,F004,Meezan Balanced Fund,Balanced,4982.39
+2021-04-01,F004,Meezan Balanced Fund,Balanced,5086.47
+2021-05-01,F004,Meezan Balanced Fund,Balanced,5039.38
+2021-06-01,F004,Meezan Balanced Fund,Balanced,5174.42
+2021-07-01,F004,Meezan Balanced Fund,Balanced,5051.51
+2021-08-01,F004,Meezan Balanced Fund,Balanced,5190.36
+2021-09-01,F004,Meezan Balanced Fund,Balanced,5255.51
+2021-10-01,F004,Meezan Balanced Fund,Balanced,5623.71
+2021-11-01,F004,Meezan Balanced Fund,Balanced,6002.41
+2021-12-01,F004,Meezan Balanced Fund,Balanced,6293.89
+2022-01-01,F004,Meezan Balanced Fund,Balanced,6389.57
+2022-02-01,F004,Meezan Balanced Fund,Balanced,6929.88
+2022-03-01,F004,Meezan Balanced Fund,Balanced,6780.25
+2022-04-01,F004,Meezan Balanced Fund,Balanced,6664.27
+2022-05-01,F004,Meezan Balanced Fund,Balanced,6814.12
+2022-06-01,F004,Meezan Balanced Fund,Balanced,7445.25
+2022-07-01,F004,Meezan Balanced Fund,Balanced,7474.51
+2022-08-01,F004,Meezan Balanced Fund,Balanced,7508.17
+2022-09-01,F004,Meezan Balanced Fund,Balanced,7258.47
+2022-10-01,F004,Meezan Balanced Fund,Balanced,7537.03
+2022-11-01,F004,Meezan Balanced Fund,Balanced,7827.92
+2022-12-01,F004,Meezan Balanced Fund,Balanced,8091.51
+2023-01-01,F004,Meezan Balanced Fund,Balanced,8019.68
+2023-02-01,F004,Meezan Balanced Fund,Balanced,7929.85
+2023-03-01,F004,Meezan Balanced Fund,Balanced,7701.52
+2023-04-01,F004,Meezan Balanced Fund,Balanced,7797.92
+2023-05-01,F004,Meezan Balanced Fund,Balanced,7623.15
+2023-06-01,F004,Meezan Balanced Fund,Balanced,7430.11
+2023-07-01,F004,Meezan Balanced Fund,Balanced,7409.97
+2023-08-01,F004,Meezan Balanced Fund,Balanced,7375.33
+2023-09-01,F004,Meezan Balanced Fund,Balanced,7330.05
+2023-10-01,F004,Meezan Balanced Fund,Balanced,7505.92
+2023-11-01,F004,Meezan Balanced Fund,Balanced,7598.78
+2023-12-01,F004,Meezan Balanced Fund,Balanced,7609.08
+2024-01-01,F004,Meezan Balanced Fund,Balanced,7726.95
+2024-02-01,F004,Meezan Balanced Fund,Balanced,7574.37
+2024-03-01,F004,Meezan Balanced Fund,Balanced,7674.04
+2024-04-01,F004,Meezan Balanced Fund,Balanced,7785.45
+2024-05-01,F004,Meezan Balanced Fund,Balanced,7512.25
+2024-06-01,F004,Meezan Balanced Fund,Balanced,7811.77
+2024-07-01,F004,Meezan Balanced Fund,Balanced,7683.32
+2024-08-01,F004,Meezan Balanced Fund,Balanced,7780.97
+2024-09-01,F004,Meezan Balanced Fund,Balanced,8130.59
+2024-10-01,F004,Meezan Balanced Fund,Balanced,8437.68
+2024-11-01,F004,Meezan Balanced Fund,Balanced,8530.75
+2024-12-01,F004,Meezan Balanced Fund,Balanced,8523.29
+2020-01-01,F005,KSE Meezan Index Fund,Index,3322.96
+2020-02-01,F005,KSE Meezan Index Fund,Index,3423.45
+2020-03-01,F005,KSE Meezan Index Fund,Index,3394.18
+2020-04-01,F005,KSE Meezan Index Fund,Index,3347.18
+2020-05-01,F005,KSE Meezan Index Fund,Index,3172.55
+2020-06-01,F005,KSE Meezan Index Fund,Index,3218.94
+2020-07-01,F005,KSE Meezan Index Fund,Index,3243.14
+2020-08-01,F005,KSE Meezan Index Fund,Index,3386.12
+2020-09-01,F005,KSE Meezan Index Fund,Index,3456.45
+2020-10-01,F005,KSE Meezan Index Fund,Index,3629.37
+2020-11-01,F005,KSE Meezan Index Fund,Index,3589.73
+2020-12-01,F005,KSE Meezan Index Fund,Index,3748.2
+2021-01-01,F005,KSE Meezan Index Fund,Index,3782.43
+2021-02-01,F005,KSE Meezan Index Fund,Index,3965.23
+2021-03-01,F005,KSE Meezan Index Fund,Index,3890.83
+2021-04-01,F005,KSE Meezan Index Fund,Index,4015.55
+2021-05-01,F005,KSE Meezan Index Fund,Index,3876.85
+2021-06-01,F005,KSE Meezan Index Fund,Index,3942.7
+2021-07-01,F005,KSE Meezan Index Fund,Index,4093.35
+2021-08-01,F005,KSE Meezan Index Fund,Index,4131.71
+2021-09-01,F005,KSE Meezan Index Fund,Index,4104.8
+2021-10-01,F005,KSE Meezan Index Fund,Index,4311.61
+2021-11-01,F005,KSE Meezan Index Fund,Index,4406.02
+2021-12-01,F005,KSE Meezan Index Fund,Index,4451.46
+2022-01-01,F005,KSE Meezan Index Fund,Index,4568.34
+2022-02-01,F005,KSE Meezan Index Fund,Index,5043.91
+2022-03-01,F005,KSE Meezan Index Fund,Index,5344.55
+2022-04-01,F005,KSE Meezan Index Fund,Index,5664.57
+2022-05-01,F005,KSE Meezan Index Fund,Index,5880.2
+2022-06-01,F005,KSE Meezan Index Fund,Index,6056.57
+2022-07-01,F005,KSE Meezan Index Fund,Index,5681.77
+2022-08-01,F005,KSE Meezan Index Fund,Index,5622.86
+2022-09-01,F005,KSE Meezan Index Fund,Index,5598.02
+2022-10-01,F005,KSE Meezan Index Fund,Index,5339.13
+2022-11-01,F005,KSE Meezan Index Fund,Index,5207.13
+2022-12-01,F005,KSE Meezan Index Fund,Index,4949.77
+2023-01-01,F005,KSE Meezan Index Fund,Index,4993.58
+2023-02-01,F005,KSE Meezan Index Fund,Index,5166.17
+2023-03-01,F005,KSE Meezan Index Fund,Index,5389.37
+2023-04-01,F005,KSE Meezan Index Fund,Index,5510.32
+2023-05-01,F005,KSE Meezan Index Fund,Index,5406.17
+2023-06-01,F005,KSE Meezan Index Fund,Index,5146.88
+2023-07-01,F005,KSE Meezan Index Fund,Index,4927.07
+2023-08-01,F005,KSE Meezan Index Fund,Index,4788.77
+2023-09-01,F005,KSE Meezan Index Fund,Index,4708.96
+2023-10-01,F005,KSE Meezan Index Fund,Index,4733.49
+2023-11-01,F005,KSE Meezan Index Fund,Index,4636.8
+2023-12-01,F005,KSE Meezan Index Fund,Index,4730.33
+2024-01-01,F005,KSE Meezan Index Fund,Index,4744.67
+2024-02-01,F005,KSE Meezan Index Fund,Index,4793.62
+2024-03-01,F005,KSE Meezan Index Fund,Index,5005.53
+2024-04-01,F005,KSE Meezan Index Fund,Index,4878.35
+2024-05-01,F005,KSE Meezan Index Fund,Index,4988.41
+2024-06-01,F005,KSE Meezan Index Fund,Index,5036.21
+2024-07-01,F005,KSE Meezan Index Fund,Index,5036.18
+2024-08-01,F005,KSE Meezan Index Fund,Index,5220.3
+2024-09-01,F005,KSE Meezan Index Fund,Index,5410.16
+2024-10-01,F005,KSE Meezan Index Fund,Index,5310.64
+2024-11-01,F005,KSE Meezan Index Fund,Index,5334.73
+2024-12-01,F005,KSE Meezan Index Fund,Index,5433.08
+2020-01-01,F006,Meezan Gold Fund,Commodity,2103.8
+2020-02-01,F006,Meezan Gold Fund,Commodity,2161.76
+2020-03-01,F006,Meezan Gold Fund,Commodity,2201.62
+2020-04-01,F006,Meezan Gold Fund,Commodity,2344.67
+2020-05-01,F006,Meezan Gold Fund,Commodity,2260.48
+2020-06-01,F006,Meezan Gold Fund,Commodity,2274.78
+2020-07-01,F006,Meezan Gold Fund,Commodity,2235.53
+2020-08-01,F006,Meezan Gold Fund,Commodity,2298.4
+2020-09-01,F006,Meezan Gold Fund,Commodity,2209.87
+2020-10-01,F006,Meezan Gold Fund,Commodity,2254.93
+2020-11-01,F006,Meezan Gold Fund,Commodity,2234.86
+2020-12-01,F006,Meezan Gold Fund,Commodity,2207.99
+2021-01-01,F006,Meezan Gold Fund,Commodity,2167.37
+2021-02-01,F006,Meezan Gold Fund,Commodity,2191.31
+2021-03-01,F006,Meezan Gold Fund,Commodity,2317.39
+2021-04-01,F006,Meezan Gold Fund,Commodity,2373.58
+2021-05-01,F006,Meezan Gold Fund,Commodity,2477.61
+2021-06-01,F006,Meezan Gold Fund,Commodity,2663.28
+2021-07-01,F006,Meezan Gold Fund,Commodity,2750.94
+2021-08-01,F006,Meezan Gold Fund,Commodity,2773.59
+2021-09-01,F006,Meezan Gold Fund,Commodity,2881.81
+2021-10-01,F006,Meezan Gold Fund,Commodity,2906.8
+2021-11-01,F006,Meezan Gold Fund,Commodity,2935.48
+2021-12-01,F006,Meezan Gold Fund,Commodity,2875.02
+2022-01-01,F006,Meezan Gold Fund,Commodity,3026.79
+2022-02-01,F006,Meezan Gold Fund,Commodity,3067.41
+2022-03-01,F006,Meezan Gold Fund,Commodity,3160.85
+2022-04-01,F006,Meezan Gold Fund,Commodity,3141.63
+2022-05-01,F006,Meezan Gold Fund,Commodity,3261.26
+2022-06-01,F006,Meezan Gold Fund,Commodity,3268.25
+2022-07-01,F006,Meezan Gold Fund,Commodity,3287.04
+2022-08-01,F006,Meezan Gold Fund,Commodity,3406.47
+2022-09-01,F006,Meezan Gold Fund,Commodity,3521.34
+2022-10-01,F006,Meezan Gold Fund,Commodity,3554.23
+2022-11-01,F006,Meezan Gold Fund,Commodity,3401.24
+2022-12-01,F006,Meezan Gold Fund,Commodity,3740.63
+2023-01-01,F006,Meezan Gold Fund,Commodity,3973.96
+2023-02-01,F006,Meezan Gold Fund,Commodity,4099.85
+2023-03-01,F006,Meezan Gold Fund,Commodity,4048.21
+2023-04-01,F006,Meezan Gold Fund,Commodity,4074.9
+2023-05-01,F006,Meezan Gold Fund,Commodity,4049.22
+2023-06-01,F006,Meezan Gold Fund,Commodity,4243.24
+2023-07-01,F006,Meezan Gold Fund,Commodity,4319.09
+2023-08-01,F006,Meezan Gold Fund,Commodity,4260.67
+2023-09-01,F006,Meezan Gold Fund,Commodity,4243.1
+2023-10-01,F006,Meezan Gold Fund,Commodity,4428.26
+2023-11-01,F006,Meezan Gold Fund,Commodity,4685.11
+2023-12-01,F006,Meezan Gold Fund,Commodity,4946.77
+2024-01-01,F006,Meezan Gold Fund,Commodity,5108.58
+2024-02-01,F006,Meezan Gold Fund,Commodity,5120.95
+2024-03-01,F006,Meezan Gold Fund,Commodity,4674.17
+2024-04-01,F006,Meezan Gold Fund,Commodity,4762.58
+2024-05-01,F006,Meezan Gold Fund,Commodity,4809.95
+2024-06-01,F006,Meezan Gold Fund,Commodity,4878.25
+2024-07-01,F006,Meezan Gold Fund,Commodity,4934.92
+2024-08-01,F006,Meezan Gold Fund,Commodity,4787.92
+2024-09-01,F006,Meezan Gold Fund,Commodity,4915.86
+2024-10-01,F006,Meezan Gold Fund,Commodity,5058.26
+2024-11-01,F006,Meezan Gold Fund,Commodity,5212.38
+2024-12-01,F006,Meezan Gold Fund,Commodity,5412.52

@@ -1,0 +1,973 @@
+month,fund_id,fund_name,txn_type,amount_pkr
+2020-01,F001,Al Meezan Mutual Fund,Buy,22020629.5
+2020-01,F001,Al Meezan Mutual Fund,Dividend Reinvest,51087.94
+2020-01,F001,Al Meezan Mutual Fund,Sell,1623710.7599999998
+2020-01,F002,Meezan Islamic Income Fund,Buy,3594822.96
+2020-01,F002,Meezan Islamic Income Fund,Dividend Reinvest,91140.12
+2020-01,F002,Meezan Islamic Income Fund,Sell,96105.24
+2020-01,F003,Meezan Cash Fund,Buy,14507045.04
+2020-01,F003,Meezan Cash Fund,Dividend Reinvest,938590.46
+2020-01,F003,Meezan Cash Fund,Sell,137526.07
+2020-01,F004,Meezan Balanced Fund,Buy,3322696.12
+2020-01,F004,Meezan Balanced Fund,Dividend Reinvest,19172273.63
+2020-01,F004,Meezan Balanced Fund,Sell,50050.82
+2020-01,F005,KSE Meezan Index Fund,Buy,9335808.92
+2020-01,F005,KSE Meezan Index Fund,Dividend Reinvest,373357.15
+2020-01,F005,KSE Meezan Index Fund,Sell,233719.39
+2020-01,F006,Meezan Gold Fund,Buy,11755167.27
+2020-01,F006,Meezan Gold Fund,Sell,353357.65
+2020-02,F001,Al Meezan Mutual Fund,Buy,11635395.670000002
+2020-02,F001,Al Meezan Mutual Fund,Dividend Reinvest,142210.37
+2020-02,F001,Al Meezan Mutual Fund,Sell,1322633.79
+2020-02,F002,Meezan Islamic Income Fund,Buy,2145114.83
+2020-02,F002,Meezan Islamic Income Fund,Sell,2518602.39
+2020-02,F003,Meezan Cash Fund,Buy,3671834.81
+2020-02,F003,Meezan Cash Fund,Dividend Reinvest,10727872.7
+2020-02,F003,Meezan Cash Fund,Sell,66447.76
+2020-02,F004,Meezan Balanced Fund,Buy,10605122.41
+2020-02,F004,Meezan Balanced Fund,Dividend Reinvest,46484.15
+2020-02,F004,Meezan Balanced Fund,Sell,1313171.95
+2020-02,F005,KSE Meezan Index Fund,Buy,648853.58
+2020-02,F005,KSE Meezan Index Fund,Dividend Reinvest,289498.15
+2020-02,F005,KSE Meezan Index Fund,Sell,13811947.51
+2020-02,F006,Meezan Gold Fund,Buy,1461968.26
+2020-02,F006,Meezan Gold Fund,Sell,8872208.49
+2020-03,F001,Al Meezan Mutual Fund,Buy,10485059.040000001
+2020-03,F001,Al Meezan Mutual Fund,Dividend Reinvest,965796.31
+2020-03,F001,Al Meezan Mutual Fund,Sell,1400076.78
+2020-03,F002,Meezan Islamic Income Fund,Buy,9845195.95
+2020-03,F002,Meezan Islamic Income Fund,Dividend Reinvest,1352905.4499999997
+2020-03,F002,Meezan Islamic Income Fund,Sell,2627642.32
+2020-03,F003,Meezan Cash Fund,Buy,7655556.8
+2020-03,F003,Meezan Cash Fund,Sell,204495.21
+2020-03,F004,Meezan Balanced Fund,Buy,19029854.8
+2020-03,F004,Meezan Balanced Fund,Dividend Reinvest,346552.18
+2020-03,F004,Meezan Balanced Fund,Sell,9177037.040000001
+2020-03,F005,KSE Meezan Index Fund,Buy,5620951.26
+2020-03,F005,KSE Meezan Index Fund,Dividend Reinvest,12345580.629999999
+2020-03,F005,KSE Meezan Index Fund,Sell,5345213.640000001
+2020-03,F006,Meezan Gold Fund,Buy,7237971.3100000005
+2020-03,F006,Meezan Gold Fund,Sell,147252.82
+2020-04,F001,Al Meezan Mutual Fund,Buy,13102406.93
+2020-04,F001,Al Meezan Mutual Fund,Dividend Reinvest,9690381.29
+2020-04,F001,Al Meezan Mutual Fund,Sell,148019.6
+2020-04,F002,Meezan Islamic Income Fund,Buy,2209874.57
+2020-04,F002,Meezan Islamic Income Fund,Sell,1204124.13
+2020-04,F003,Meezan Cash Fund,Buy,2370801.86
+2020-04,F003,Meezan Cash Fund,Sell,12960722.870000001
+2020-04,F004,Meezan Balanced Fund,Buy,1779232.66
+2020-04,F004,Meezan Balanced Fund,Dividend Reinvest,1614772.38
+2020-04,F005,KSE Meezan Index Fund,Buy,5865914.95
+2020-04,F005,KSE Meezan Index Fund,Dividend Reinvest,33615.8
+2020-04,F005,KSE Meezan Index Fund,Sell,832450.3900000001
+2020-04,F006,Meezan Gold Fund,Buy,11158404.790000001
+2020-04,F006,Meezan Gold Fund,Dividend Reinvest,12556464.64
+2020-04,F006,Meezan Gold Fund,Sell,6798950.569999999
+2020-05,F001,Al Meezan Mutual Fund,Buy,2168261.62
+2020-05,F001,Al Meezan Mutual Fund,Dividend Reinvest,7380893.96
+2020-05,F001,Al Meezan Mutual Fund,Sell,170220.24
+2020-05,F002,Meezan Islamic Income Fund,Buy,24653854.67
+2020-05,F002,Meezan Islamic Income Fund,Sell,5867496.1
+2020-05,F003,Meezan Cash Fund,Buy,1896137.52
+2020-05,F003,Meezan Cash Fund,Dividend Reinvest,990159.95
+2020-05,F003,Meezan Cash Fund,Sell,1180711.0499999998
+2020-05,F004,Meezan Balanced Fund,Buy,8152558.989999999
+2020-05,F004,Meezan Balanced Fund,Dividend Reinvest,255858.59000000003
+2020-05,F004,Meezan Balanced Fund,Sell,632238.98
+2020-05,F005,KSE Meezan Index Fund,Buy,1447967.83
+2020-05,F005,KSE Meezan Index Fund,Sell,1510773.96
+2020-05,F006,Meezan Gold Fund,Buy,2139537.24
+2020-05,F006,Meezan Gold Fund,Sell,226466.8
+2020-06,F001,Al Meezan Mutual Fund,Buy,12829038.68
+2020-06,F001,Al Meezan Mutual Fund,Dividend Reinvest,1213515.9
+2020-06,F001,Al Meezan Mutual Fund,Sell,335025.66000000003
+2020-06,F002,Meezan Islamic Income Fund,Buy,40031858.86
+2020-06,F002,Meezan Islamic Income Fund,Dividend Reinvest,425016.43
+2020-06,F002,Meezan Islamic Income Fund,Sell,72818.04
+2020-06,F003,Meezan Cash Fund,Buy,9105645.719999999
+2020-06,F003,Meezan Cash Fund,Dividend Reinvest,12750940.030000001
+2020-06,F003,Meezan Cash Fund,Sell,961314.62
+2020-06,F004,Meezan Balanced Fund,Buy,5484269.54
+2020-06,F004,Meezan Balanced Fund,Sell,21845347.2
+2020-06,F005,KSE Meezan Index Fund,Buy,5593915.96
+2020-06,F005,KSE Meezan Index Fund,Dividend Reinvest,444474.88
+2020-06,F005,KSE Meezan Index Fund,Sell,170000.52
+2020-06,F006,Meezan Gold Fund,Buy,1691197.27
+2020-06,F006,Meezan Gold Fund,Dividend Reinvest,14482814.59
+2020-06,F006,Meezan Gold Fund,Sell,12868298.1
+2020-07,F001,Al Meezan Mutual Fund,Buy,28718422.859999996
+2020-07,F001,Al Meezan Mutual Fund,Dividend Reinvest,21074234.0
+2020-07,F001,Al Meezan Mutual Fund,Sell,1469549.43
+2020-07,F002,Meezan Islamic Income Fund,Buy,3386617.67
+2020-07,F002,Meezan Islamic Income Fund,Sell,5999819.17
+2020-07,F003,Meezan Cash Fund,Buy,2767394.45
+2020-07,F003,Meezan Cash Fund,Sell,56298.66
+2020-07,F004,Meezan Balanced Fund,Buy,6912595.14
+2020-07,F004,Meezan Balanced Fund,Dividend Reinvest,1400242.66
+2020-07,F004,Meezan Balanced Fund,Sell,8692437.5
+2020-07,F005,KSE Meezan Index Fund,Buy,3592620.0
+2020-07,F005,KSE Meezan Index Fund,Sell,160749.56
+2020-07,F006,Meezan Gold Fund,Buy,39684.17
+2020-07,F006,Meezan Gold Fund,Dividend Reinvest,301607.31
+2020-07,F006,Meezan Gold Fund,Sell,111752.61
+2020-08,F001,Al Meezan Mutual Fund,Buy,1057493.33
+2020-08,F001,Al Meezan Mutual Fund,Dividend Reinvest,83054.16
+2020-08,F001,Al Meezan Mutual Fund,Sell,13206114.8
+2020-08,F002,Meezan Islamic Income Fund,Buy,2248260.58
+2020-08,F002,Meezan Islamic Income Fund,Dividend Reinvest,13027069.589999998
+2020-08,F002,Meezan Islamic Income Fund,Sell,566669.67
+2020-08,F003,Meezan Cash Fund,Buy,1634160.47
+2020-08,F003,Meezan Cash Fund,Dividend Reinvest,253524.25
+2020-08,F003,Meezan Cash Fund,Sell,7666300.5
+2020-08,F004,Meezan Balanced Fund,Buy,18009319.25
+2020-08,F004,Meezan Balanced Fund,Sell,622138.71
+2020-08,F005,KSE Meezan Index Fund,Buy,13541063.1
+2020-08,F005,KSE Meezan Index Fund,Dividend Reinvest,52348.1
+2020-08,F005,KSE Meezan Index Fund,Sell,275900.05
+2020-08,F006,Meezan Gold Fund,Buy,2685201.8
+2020-08,F006,Meezan Gold Fund,Dividend Reinvest,460090.76
+2020-08,F006,Meezan Gold Fund,Sell,415527.02
+2020-09,F001,Al Meezan Mutual Fund,Buy,1781122.5700000003
+2020-09,F001,Al Meezan Mutual Fund,Sell,147362.58000000002
+2020-09,F002,Meezan Islamic Income Fund,Buy,1182453.38
+2020-09,F002,Meezan Islamic Income Fund,Dividend Reinvest,327186.43
+2020-09,F002,Meezan Islamic Income Fund,Sell,13247795.98
+2020-09,F003,Meezan Cash Fund,Buy,5579348.08
+2020-09,F003,Meezan Cash Fund,Sell,4283992.54
+2020-09,F004,Meezan Balanced Fund,Buy,2575624.8
+2020-09,F004,Meezan Balanced Fund,Dividend Reinvest,6053585.84
+2020-09,F004,Meezan Balanced Fund,Sell,3526617.0
+2020-09,F005,KSE Meezan Index Fund,Buy,5935921.05
+2020-09,F005,KSE Meezan Index Fund,Dividend Reinvest,250155.86
+2020-09,F005,KSE Meezan Index Fund,Sell,931378.29
+2020-09,F006,Meezan Gold Fund,Buy,2455431.0100000002
+2020-09,F006,Meezan Gold Fund,Dividend Reinvest,158025.12
+2020-09,F006,Meezan Gold Fund,Sell,10046127.97
+2020-10,F001,Al Meezan Mutual Fund,Buy,27808136.05
+2020-10,F001,Al Meezan Mutual Fund,Sell,1633113.94
+2020-10,F002,Meezan Islamic Income Fund,Buy,11916889.22
+2020-10,F002,Meezan Islamic Income Fund,Dividend Reinvest,678337.36
+2020-10,F002,Meezan Islamic Income Fund,Sell,5572683.6899999995
+2020-10,F003,Meezan Cash Fund,Buy,10602999.54
+2020-10,F003,Meezan Cash Fund,Dividend Reinvest,1450707.3499999999
+2020-10,F003,Meezan Cash Fund,Sell,225968.21999999997
+2020-10,F004,Meezan Balanced Fund,Buy,8422925.28
+2020-10,F004,Meezan Balanced Fund,Sell,905079.51
+2020-10,F005,KSE Meezan Index Fund,Buy,11362638.49
+2020-10,F005,KSE Meezan Index Fund,Sell,116134.4
+2020-10,F006,Meezan Gold Fund,Buy,1082238.54
+2020-10,F006,Meezan Gold Fund,Sell,173948.3
+2020-11,F001,Al Meezan Mutual Fund,Buy,6891186.13
+2020-11,F001,Al Meezan Mutual Fund,Dividend Reinvest,9744537.91
+2020-11,F001,Al Meezan Mutual Fund,Sell,6264886.29
+2020-11,F002,Meezan Islamic Income Fund,Buy,8027340.45
+2020-11,F002,Meezan Islamic Income Fund,Dividend Reinvest,42209.14
+2020-11,F002,Meezan Islamic Income Fund,Sell,843443.83
+2020-11,F003,Meezan Cash Fund,Buy,11139367.310000002
+2020-11,F003,Meezan Cash Fund,Sell,11005139.92
+2020-11,F004,Meezan Balanced Fund,Buy,1149950.92
+2020-11,F004,Meezan Balanced Fund,Dividend Reinvest,546258.87
+2020-11,F005,KSE Meezan Index Fund,Buy,5822225.21
+2020-11,F005,KSE Meezan Index Fund,Dividend Reinvest,627772.91
+2020-11,F005,KSE Meezan Index Fund,Sell,119448.20999999999
+2020-11,F006,Meezan Gold Fund,Buy,18563443.880000003
+2020-11,F006,Meezan Gold Fund,Sell,5481126.98
+2020-12,F001,Al Meezan Mutual Fund,Buy,11079219.48
+2020-12,F001,Al Meezan Mutual Fund,Dividend Reinvest,121664.81
+2020-12,F002,Meezan Islamic Income Fund,Buy,2751398.5300000003
+2020-12,F002,Meezan Islamic Income Fund,Dividend Reinvest,129200.62
+2020-12,F002,Meezan Islamic Income Fund,Sell,11455428.81
+2020-12,F003,Meezan Cash Fund,Buy,15230232.38
+2020-12,F003,Meezan Cash Fund,Sell,1839806.6400000001
+2020-12,F004,Meezan Balanced Fund,Buy,2425343.5500000003
+2020-12,F004,Meezan Balanced Fund,Dividend Reinvest,1661841.03
+2020-12,F004,Meezan Balanced Fund,Sell,149093.99
+2020-12,F005,KSE Meezan Index Fund,Buy,24982683.919999998
+2020-12,F005,KSE Meezan Index Fund,Sell,3254122.37
+2020-12,F006,Meezan Gold Fund,Buy,8872484.85
+2020-12,F006,Meezan Gold Fund,Sell,874975.59
+2021-01,F001,Al Meezan Mutual Fund,Buy,2297008.59
+2021-01,F001,Al Meezan Mutual Fund,Dividend Reinvest,2965710.2
+2021-01,F001,Al Meezan Mutual Fund,Sell,239656.91000000003
+2021-01,F002,Meezan Islamic Income Fund,Buy,11999196.509999998
+2021-01,F002,Meezan Islamic Income Fund,Sell,397443.49
+2021-01,F003,Meezan Cash Fund,Buy,12141595.84
+2021-01,F003,Meezan Cash Fund,Dividend Reinvest,1159437.44
+2021-01,F003,Meezan Cash Fund,Sell,15130207.76
+2021-01,F004,Meezan Balanced Fund,Buy,10320888.71
+2021-01,F004,Meezan Balanced Fund,Sell,7204658.84
+2021-01,F005,KSE Meezan Index Fund,Buy,291329.18
+2021-01,F005,KSE Meezan Index Fund,Dividend Reinvest,1094175.24
+2021-01,F005,KSE Meezan Index Fund,Sell,1432171.36
+2021-01,F006,Meezan Gold Fund,Buy,26869517.900000002
+2021-01,F006,Meezan Gold Fund,Sell,1363187.99
+2021-02,F001,Al Meezan Mutual Fund,Buy,389153.93
+2021-02,F001,Al Meezan Mutual Fund,Dividend Reinvest,1301781.69
+2021-02,F001,Al Meezan Mutual Fund,Sell,7437702.22
+2021-02,F002,Meezan Islamic Income Fund,Buy,2332913.04
+2021-02,F002,Meezan Islamic Income Fund,Sell,10002200.95
+2021-02,F003,Meezan Cash Fund,Buy,2130367.5300000003
+2021-02,F003,Meezan Cash Fund,Sell,2151206.2
+2021-02,F004,Meezan Balanced Fund,Buy,5235462.149999999
+2021-02,F004,Meezan Balanced Fund,Dividend Reinvest,211178.02
+2021-02,F004,Meezan Balanced Fund,Sell,1192221.9100000001
+2021-02,F005,KSE Meezan Index Fund,Buy,2894685.47
+2021-02,F005,KSE Meezan Index Fund,Dividend Reinvest,9668525.34
+2021-02,F005,KSE Meezan Index Fund,Sell,1177476.73
+2021-02,F006,Meezan Gold Fund,Buy,27676173.51
+2021-02,F006,Meezan Gold Fund,Dividend Reinvest,210049.68
+2021-02,F006,Meezan Gold Fund,Sell,2117498.2
+2021-03,F001,Al Meezan Mutual Fund,Buy,606730.87
+2021-03,F001,Al Meezan Mutual Fund,Dividend Reinvest,182399.6
+2021-03,F001,Al Meezan Mutual Fund,Sell,1047897.3799999999
+2021-03,F002,Meezan Islamic Income Fund,Buy,1872640.53
+2021-03,F002,Meezan Islamic Income Fund,Dividend Reinvest,84772.74
+2021-03,F002,Meezan Islamic Income Fund,Sell,4853839.01
+2021-03,F003,Meezan Cash Fund,Buy,2963459.08
+2021-03,F003,Meezan Cash Fund,Dividend Reinvest,97397.54
+2021-03,F003,Meezan Cash Fund,Sell,853029.0900000001
+2021-03,F004,Meezan Balanced Fund,Buy,28672988.48
+2021-03,F004,Meezan Balanced Fund,Dividend Reinvest,293648.95
+2021-03,F004,Meezan Balanced Fund,Sell,330076.8
+2021-03,F005,KSE Meezan Index Fund,Buy,1409741.42
+2021-03,F005,KSE Meezan Index Fund,Sell,6454392.920000001
+2021-03,F006,Meezan Gold Fund,Buy,16558128.800000003
+2021-03,F006,Meezan Gold Fund,Dividend Reinvest,54495.73
+2021-04,F001,Al Meezan Mutual Fund,Buy,14033929.92
+2021-04,F001,Al Meezan Mutual Fund,Dividend Reinvest,59527.23
+2021-04,F001,Al Meezan Mutual Fund,Sell,125630.73
+2021-04,F002,Meezan Islamic Income Fund,Buy,17103907.32
+2021-04,F002,Meezan Islamic Income Fund,Sell,9964949.94
+2021-04,F003,Meezan Cash Fund,Buy,220846.22000000003
+2021-04,F003,Meezan Cash Fund,Dividend Reinvest,110552.18
+2021-04,F003,Meezan Cash Fund,Sell,1387723.52
+2021-04,F004,Meezan Balanced Fund,Buy,14180609.81
+2021-04,F004,Meezan Balanced Fund,Dividend Reinvest,6826041.07
+2021-04,F004,Meezan Balanced Fund,Sell,91038.6
+2021-04,F005,KSE Meezan Index Fund,Buy,10642639.9
+2021-04,F005,KSE Meezan Index Fund,Sell,1443747.3699999999
+2021-04,F006,Meezan Gold Fund,Buy,15009940.110000001
+2021-04,F006,Meezan Gold Fund,Dividend Reinvest,7797753.21
+2021-04,F006,Meezan Gold Fund,Sell,432431.89
+2021-05,F001,Al Meezan Mutual Fund,Buy,34578029.67
+2021-05,F001,Al Meezan Mutual Fund,Dividend Reinvest,709624.3899999999
+2021-05,F001,Al Meezan Mutual Fund,Sell,1187483.57
+2021-05,F002,Meezan Islamic Income Fund,Buy,1151565.8
+2021-05,F002,Meezan Islamic Income Fund,Sell,883650.8599999999
+2021-05,F003,Meezan Cash Fund,Buy,7472709.51
+2021-05,F003,Meezan Cash Fund,Dividend Reinvest,1076467.64
+2021-05,F003,Meezan Cash Fund,Sell,1534319.09
+2021-05,F004,Meezan Balanced Fund,Buy,262827.25
+2021-05,F004,Meezan Balanced Fund,Sell,9911235.280000001
+2021-05,F005,KSE Meezan Index Fund,Buy,887571.6599999999
+2021-05,F005,KSE Meezan Index Fund,Dividend Reinvest,53232.16
+2021-05,F005,KSE Meezan Index Fund,Sell,811370.5599999999
+2021-05,F006,Meezan Gold Fund,Buy,13609942.870000001
+2021-05,F006,Meezan Gold Fund,Dividend Reinvest,11456465.45
+2021-05,F006,Meezan Gold Fund,Sell,444355.13
+2021-06,F001,Al Meezan Mutual Fund,Buy,5398353.03
+2021-06,F001,Al Meezan Mutual Fund,Dividend Reinvest,10807961.74
+2021-06,F001,Al Meezan Mutual Fund,Sell,7810089.050000001
+2021-06,F002,Meezan Islamic Income Fund,Buy,235281.89
+2021-06,F002,Meezan Islamic Income Fund,Dividend Reinvest,265886.81
+2021-06,F002,Meezan Islamic Income Fund,Sell,22846326.21
+2021-06,F003,Meezan Cash Fund,Buy,4176475.23
+2021-06,F003,Meezan Cash Fund,Dividend Reinvest,342750.5
+2021-06,F003,Meezan Cash Fund,Sell,1473919.7
+2021-06,F004,Meezan Balanced Fund,Buy,14804520.059999999
+2021-06,F004,Meezan Balanced Fund,Dividend Reinvest,220347.56
+2021-06,F004,Meezan Balanced Fund,Sell,34122824.18
+2021-06,F005,KSE Meezan Index Fund,Buy,413067.74
+2021-06,F005,KSE Meezan Index Fund,Dividend Reinvest,74009.61
+2021-06,F005,KSE Meezan Index Fund,Sell,6365964.489999999
+2021-06,F006,Meezan Gold Fund,Buy,481819.96
+2021-06,F006,Meezan Gold Fund,Dividend Reinvest,1134692.62
+2021-06,F006,Meezan Gold Fund,Sell,1432496.2699999998
+2021-07,F001,Al Meezan Mutual Fund,Buy,13877072.84
+2021-07,F001,Al Meezan Mutual Fund,Dividend Reinvest,149413.91
+2021-07,F001,Al Meezan Mutual Fund,Sell,435689.01
+2021-07,F002,Meezan Islamic Income Fund,Buy,1348540.9300000002
+2021-07,F002,Meezan Islamic Income Fund,Dividend Reinvest,143534.66
+2021-07,F002,Meezan Islamic Income Fund,Sell,2314481.2
+2021-07,F003,Meezan Cash Fund,Buy,13847707.2
+2021-07,F003,Meezan Cash Fund,Sell,36990601.019999996
+2021-07,F004,Meezan Balanced Fund,Buy,28262499.58
+2021-07,F004,Meezan Balanced Fund,Sell,1474731.3199999998
+2021-07,F005,KSE Meezan Index Fund,Buy,2634196.17
+2021-07,F005,KSE Meezan Index Fund,Dividend Reinvest,1316760.19
+2021-07,F005,KSE Meezan Index Fund,Sell,983554.7200000001
+2021-07,F006,Meezan Gold Fund,Buy,4603815.01
+2021-07,F006,Meezan Gold Fund,Dividend Reinvest,6289750.8100000005
+2021-07,F006,Meezan Gold Fund,Sell,928845.23
+2021-08,F001,Al Meezan Mutual Fund,Buy,2361503.41
+2021-08,F001,Al Meezan Mutual Fund,Sell,181808.75
+2021-08,F002,Meezan Islamic Income Fund,Buy,18857009.58
+2021-08,F002,Meezan Islamic Income Fund,Dividend Reinvest,574286.27
+2021-08,F002,Meezan Islamic Income Fund,Sell,1789360.65
+2021-08,F003,Meezan Cash Fund,Buy,12255546.27
+2021-08,F003,Meezan Cash Fund,Sell,880706.63
+2021-08,F004,Meezan Balanced Fund,Buy,4734760.51
+2021-08,F004,Meezan Balanced Fund,Dividend Reinvest,165752.15
+2021-08,F004,Meezan Balanced Fund,Sell,1389976.99
+2021-08,F005,KSE Meezan Index Fund,Buy,11297957.99
+2021-08,F005,KSE Meezan Index Fund,Dividend Reinvest,6671010.95
+2021-08,F005,KSE Meezan Index Fund,Sell,9123147.72
+2021-08,F006,Meezan Gold Fund,Buy,3600892.84
+2021-08,F006,Meezan Gold Fund,Dividend Reinvest,842650.87
+2021-08,F006,Meezan Gold Fund,Sell,1194928.3399999999
+2021-09,F001,Al Meezan Mutual Fund,Buy,6198902.53
+2021-09,F001,Al Meezan Mutual Fund,Dividend Reinvest,39515.06
+2021-09,F001,Al Meezan Mutual Fund,Sell,1570804.0599999998
+2021-09,F002,Meezan Islamic Income Fund,Buy,14051740.95
+2021-09,F002,Meezan Islamic Income Fund,Dividend Reinvest,22870138.37
+2021-09,F002,Meezan Islamic Income Fund,Sell,545332.45
+2021-09,F003,Meezan Cash Fund,Buy,24306129.5
+2021-09,F003,Meezan Cash Fund,Dividend Reinvest,134287.72
+2021-09,F003,Meezan Cash Fund,Sell,614263.51
+2021-09,F004,Meezan Balanced Fund,Buy,3143161.24
+2021-09,F004,Meezan Balanced Fund,Sell,1246870.41
+2021-09,F005,KSE Meezan Index Fund,Buy,8840244.32
+2021-09,F005,KSE Meezan Index Fund,Dividend Reinvest,512214.85
+2021-09,F005,KSE Meezan Index Fund,Sell,10050650.329999998
+2021-09,F006,Meezan Gold Fund,Buy,6977036.359999999
+2021-09,F006,Meezan Gold Fund,Dividend Reinvest,1430262.92
+2021-09,F006,Meezan Gold Fund,Sell,236861.99
+2021-10,F001,Al Meezan Mutual Fund,Buy,16794057.58
+2021-10,F001,Al Meezan Mutual Fund,Dividend Reinvest,2464531.64
+2021-10,F001,Al Meezan Mutual Fund,Sell,13439488.51
+2021-10,F002,Meezan Islamic Income Fund,Buy,2342687.87
+2021-10,F002,Meezan Islamic Income Fund,Dividend Reinvest,132573.21
+2021-10,F002,Meezan Islamic Income Fund,Sell,2635692.55
+2021-10,F003,Meezan Cash Fund,Buy,3462856.98
+2021-10,F003,Meezan Cash Fund,Sell,1274885.37
+2021-10,F004,Meezan Balanced Fund,Buy,357821.58999999997
+2021-10,F004,Meezan Balanced Fund,Sell,6016056.4799999995
+2021-10,F005,KSE Meezan Index Fund,Buy,10556282.24
+2021-10,F005,KSE Meezan Index Fund,Sell,1165447.96
+2021-10,F006,Meezan Gold Fund,Buy,14581334.25
+2021-10,F006,Meezan Gold Fund,Dividend Reinvest,29794.61
+2021-10,F006,Meezan Gold Fund,Sell,344567.89
+2021-11,F001,Al Meezan Mutual Fund,Buy,12676280.33
+2021-11,F001,Al Meezan Mutual Fund,Dividend Reinvest,1149464.95
+2021-11,F001,Al Meezan Mutual Fund,Sell,17300251.81
+2021-11,F002,Meezan Islamic Income Fund,Buy,2459610.11
+2021-11,F002,Meezan Islamic Income Fund,Dividend Reinvest,1150162.82
+2021-11,F002,Meezan Islamic Income Fund,Sell,1646786.18
+2021-11,F003,Meezan Cash Fund,Buy,10686705.2
+2021-11,F003,Meezan Cash Fund,Dividend Reinvest,6430769.57
+2021-11,F003,Meezan Cash Fund,Sell,10020116.690000001
+2021-11,F004,Meezan Balanced Fund,Buy,13997890.61
+2021-11,F004,Meezan Balanced Fund,Dividend Reinvest,2126988.48
+2021-11,F004,Meezan Balanced Fund,Sell,1000685.33
+2021-11,F005,KSE Meezan Index Fund,Buy,12508150.41
+2021-11,F005,KSE Meezan Index Fund,Dividend Reinvest,15656129.290000001
+2021-11,F005,KSE Meezan Index Fund,Sell,153682.16999999998
+2021-11,F006,Meezan Gold Fund,Buy,2058392.4
+2021-11,F006,Meezan Gold Fund,Dividend Reinvest,131681.72
+2021-11,F006,Meezan Gold Fund,Sell,8194618.4799999995
+2021-12,F001,Al Meezan Mutual Fund,Buy,15573399.31
+2021-12,F001,Al Meezan Mutual Fund,Dividend Reinvest,2613932.3000000003
+2021-12,F001,Al Meezan Mutual Fund,Sell,565643.72
+2021-12,F002,Meezan Islamic Income Fund,Buy,2065077.0899999999
+2021-12,F002,Meezan Islamic Income Fund,Dividend Reinvest,7305720.760000001
+2021-12,F002,Meezan Islamic Income Fund,Sell,1432743.44
+2021-12,F003,Meezan Cash Fund,Buy,2542782.4
+2021-12,F003,Meezan Cash Fund,Dividend Reinvest,111124.0
+2021-12,F003,Meezan Cash Fund,Sell,79288.05
+2021-12,F004,Meezan Balanced Fund,Buy,875409.68
+2021-12,F004,Meezan Balanced Fund,Dividend Reinvest,816057.13
+2021-12,F004,Meezan Balanced Fund,Sell,2043191.33
+2021-12,F005,KSE Meezan Index Fund,Buy,1809198.81
+2021-12,F005,KSE Meezan Index Fund,Dividend Reinvest,13025311.420000002
+2021-12,F005,KSE Meezan Index Fund,Sell,27124.3
+2021-12,F006,Meezan Gold Fund,Buy,591178.4
+2021-12,F006,Meezan Gold Fund,Dividend Reinvest,513680.52999999997
+2022-01,F001,Al Meezan Mutual Fund,Buy,19986298.35
+2022-01,F001,Al Meezan Mutual Fund,Dividend Reinvest,7768424.3100000005
+2022-01,F001,Al Meezan Mutual Fund,Sell,188205.38
+2022-01,F002,Meezan Islamic Income Fund,Buy,24230007.63
+2022-01,F002,Meezan Islamic Income Fund,Sell,11366145.85
+2022-01,F003,Meezan Cash Fund,Buy,333884.86
+2022-01,F003,Meezan Cash Fund,Dividend Reinvest,1967079.6199999999
+2022-01,F003,Meezan Cash Fund,Sell,199528.24
+2022-01,F004,Meezan Balanced Fund,Buy,7581881.3
+2022-01,F004,Meezan Balanced Fund,Dividend Reinvest,899094.82
+2022-01,F004,Meezan Balanced Fund,Sell,13716405.44
+2022-01,F005,KSE Meezan Index Fund,Buy,21536899.86
+2022-01,F005,KSE Meezan Index Fund,Sell,2480927.4
+2022-01,F006,Meezan Gold Fund,Buy,2414067.0300000003
+2022-01,F006,Meezan Gold Fund,Dividend Reinvest,225576.44
+2022-01,F006,Meezan Gold Fund,Sell,516988.94
+2022-02,F001,Al Meezan Mutual Fund,Buy,3790817.84
+2022-02,F001,Al Meezan Mutual Fund,Dividend Reinvest,52778.2
+2022-02,F001,Al Meezan Mutual Fund,Sell,891790.98
+2022-02,F002,Meezan Islamic Income Fund,Buy,491512.88
+2022-02,F003,Meezan Cash Fund,Buy,20995902.0
+2022-02,F003,Meezan Cash Fund,Sell,602736.88
+2022-02,F004,Meezan Balanced Fund,Buy,18869333.54
+2022-02,F004,Meezan Balanced Fund,Sell,10458277.299999999
+2022-02,F005,KSE Meezan Index Fund,Buy,1205946.9000000001
+2022-02,F005,KSE Meezan Index Fund,Dividend Reinvest,58660.94
+2022-02,F005,KSE Meezan Index Fund,Sell,826321.26
+2022-02,F006,Meezan Gold Fund,Buy,2346862.21
+2022-02,F006,Meezan Gold Fund,Dividend Reinvest,188452.5
+2022-02,F006,Meezan Gold Fund,Sell,337118.65
+2022-03,F001,Al Meezan Mutual Fund,Buy,2538916.42
+2022-03,F001,Al Meezan Mutual Fund,Dividend Reinvest,610465.86
+2022-03,F001,Al Meezan Mutual Fund,Sell,413513.6
+2022-03,F002,Meezan Islamic Income Fund,Buy,25932776.27
+2022-03,F002,Meezan Islamic Income Fund,Dividend Reinvest,718640.84
+2022-03,F002,Meezan Islamic Income Fund,Sell,351657.06
+2022-03,F003,Meezan Cash Fund,Buy,16392609.63
+2022-03,F003,Meezan Cash Fund,Sell,252859.39
+2022-03,F004,Meezan Balanced Fund,Buy,2749418.4
+2022-03,F004,Meezan Balanced Fund,Dividend Reinvest,169225.9
+2022-03,F004,Meezan Balanced Fund,Sell,196708.77
+2022-03,F005,KSE Meezan Index Fund,Buy,6305705.96
+2022-03,F005,KSE Meezan Index Fund,Dividend Reinvest,657970.81
+2022-03,F005,KSE Meezan Index Fund,Sell,1308651.55
+2022-03,F006,Meezan Gold Fund,Buy,595213.87
+2022-03,F006,Meezan Gold Fund,Sell,9753218.51
+2022-04,F001,Al Meezan Mutual Fund,Buy,10607838.950000001
+2022-04,F001,Al Meezan Mutual Fund,Sell,264290.95
+2022-04,F002,Meezan Islamic Income Fund,Buy,22956217.41
+2022-04,F002,Meezan Islamic Income Fund,Dividend Reinvest,7644287.73
+2022-04,F002,Meezan Islamic Income Fund,Sell,1175452.07
+2022-04,F003,Meezan Cash Fund,Buy,36564885.67
+2022-04,F003,Meezan Cash Fund,Dividend Reinvest,97044.04
+2022-04,F003,Meezan Cash Fund,Sell,13447428.23
+2022-04,F004,Meezan Balanced Fund,Buy,19077355.58
+2022-04,F004,Meezan Balanced Fund,Dividend Reinvest,249587.5
+2022-04,F004,Meezan Balanced Fund,Sell,27274806.79
+2022-04,F005,KSE Meezan Index Fund,Buy,10745901.29
+2022-04,F005,KSE Meezan Index Fund,Dividend Reinvest,129072.48999999999
+2022-04,F005,KSE Meezan Index Fund,Sell,1218214.72
+2022-04,F006,Meezan Gold Fund,Buy,14255157.319999998
+2022-04,F006,Meezan Gold Fund,Dividend Reinvest,8077506.81
+2022-04,F006,Meezan Gold Fund,Sell,20205019.6
+2022-05,F001,Al Meezan Mutual Fund,Buy,1628429.55
+2022-05,F001,Al Meezan Mutual Fund,Dividend Reinvest,107698.13
+2022-05,F001,Al Meezan Mutual Fund,Sell,926911.43
+2022-05,F002,Meezan Islamic Income Fund,Buy,7777337.83
+2022-05,F002,Meezan Islamic Income Fund,Dividend Reinvest,124851.85
+2022-05,F002,Meezan Islamic Income Fund,Sell,6647840.99
+2022-05,F003,Meezan Cash Fund,Buy,3663027.38
+2022-05,F003,Meezan Cash Fund,Dividend Reinvest,1029887.61
+2022-05,F003,Meezan Cash Fund,Sell,261907.35
+2022-05,F004,Meezan Balanced Fund,Buy,16235503.32
+2022-05,F004,Meezan Balanced Fund,Dividend Reinvest,825726.92
+2022-05,F004,Meezan Balanced Fund,Sell,237117.24
+2022-05,F005,KSE Meezan Index Fund,Buy,1635645.54
+2022-05,F005,KSE Meezan Index Fund,Dividend Reinvest,389660.74
+2022-05,F005,KSE Meezan Index Fund,Sell,262679.42
+2022-05,F006,Meezan Gold Fund,Buy,22959531.650000002
+2022-05,F006,Meezan Gold Fund,Dividend Reinvest,6150196.08
+2022-05,F006,Meezan Gold Fund,Sell,2891547.51
+2022-06,F001,Al Meezan Mutual Fund,Buy,799142.17
+2022-06,F001,Al Meezan Mutual Fund,Dividend Reinvest,477632.31
+2022-06,F001,Al Meezan Mutual Fund,Sell,9113364.52
+2022-06,F002,Meezan Islamic Income Fund,Buy,15019529.97
+2022-06,F002,Meezan Islamic Income Fund,Dividend Reinvest,245961.02000000002
+2022-06,F002,Meezan Islamic Income Fund,Sell,17476258.14
+2022-06,F003,Meezan Cash Fund,Buy,1484054.79
+2022-06,F003,Meezan Cash Fund,Dividend Reinvest,1494340.51
+2022-06,F003,Meezan Cash Fund,Sell,1411123.17
+2022-06,F004,Meezan Balanced Fund,Buy,1388827.77
+2022-06,F004,Meezan Balanced Fund,Dividend Reinvest,961327.71
+2022-06,F004,Meezan Balanced Fund,Sell,143477.5
+2022-06,F005,KSE Meezan Index Fund,Buy,8266133.029999999
+2022-06,F005,KSE Meezan Index Fund,Dividend Reinvest,137810.62
+2022-06,F005,KSE Meezan Index Fund,Sell,580722.26
+2022-06,F006,Meezan Gold Fund,Buy,19326393.99
+2022-06,F006,Meezan Gold Fund,Dividend Reinvest,131077.03
+2022-06,F006,Meezan Gold Fund,Sell,530550.36
+2022-07,F001,Al Meezan Mutual Fund,Buy,3476215.8000000003
+2022-07,F001,Al Meezan Mutual Fund,Sell,464012.7
+2022-07,F002,Meezan Islamic Income Fund,Buy,787872.03
+2022-07,F002,Meezan Islamic Income Fund,Dividend Reinvest,874660.61
+2022-07,F002,Meezan Islamic Income Fund,Sell,1842905.68
+2022-07,F003,Meezan Cash Fund,Buy,1744949.4300000002
+2022-07,F003,Meezan Cash Fund,Dividend Reinvest,10219585.950000001
+2022-07,F003,Meezan Cash Fund,Sell,7343885.26
+2022-07,F004,Meezan Balanced Fund,Dividend Reinvest,289699.87
+2022-07,F004,Meezan Balanced Fund,Sell,3379270.74
+2022-07,F005,KSE Meezan Index Fund,Buy,15444171.11
+2022-07,F005,KSE Meezan Index Fund,Sell,310809.63
+2022-07,F006,Meezan Gold Fund,Buy,12491010.71
+2022-07,F006,Meezan Gold Fund,Dividend Reinvest,72633.87
+2022-07,F006,Meezan Gold Fund,Sell,15113854.83
+2022-08,F001,Al Meezan Mutual Fund,Buy,13337830.08
+2022-08,F001,Al Meezan Mutual Fund,Dividend Reinvest,208260.22
+2022-08,F001,Al Meezan Mutual Fund,Sell,17190752.92
+2022-08,F002,Meezan Islamic Income Fund,Buy,6457290.79
+2022-08,F002,Meezan Islamic Income Fund,Sell,2466375.12
+2022-08,F003,Meezan Cash Fund,Buy,1384693.34
+2022-08,F003,Meezan Cash Fund,Dividend Reinvest,6296702.11
+2022-08,F003,Meezan Cash Fund,Sell,1773236.21
+2022-08,F004,Meezan Balanced Fund,Buy,14547496.850000001
+2022-08,F004,Meezan Balanced Fund,Dividend Reinvest,135194.0
+2022-08,F004,Meezan Balanced Fund,Sell,18205940.54
+2022-08,F005,KSE Meezan Index Fund,Buy,16186540.67
+2022-08,F005,KSE Meezan Index Fund,Dividend Reinvest,1422521.17
+2022-08,F005,KSE Meezan Index Fund,Sell,308512.01
+2022-08,F006,Meezan Gold Fund,Buy,664418.87
+2022-08,F006,Meezan Gold Fund,Dividend Reinvest,512060.5
+2022-08,F006,Meezan Gold Fund,Sell,192691.29
+2022-09,F001,Al Meezan Mutual Fund,Buy,15117150.53
+2022-09,F001,Al Meezan Mutual Fund,Sell,13579580.42
+2022-09,F002,Meezan Islamic Income Fund,Buy,4124616.8
+2022-09,F002,Meezan Islamic Income Fund,Dividend Reinvest,59249.119999999995
+2022-09,F002,Meezan Islamic Income Fund,Sell,1586660.7000000002
+2022-09,F003,Meezan Cash Fund,Buy,13506436.11
+2022-09,F003,Meezan Cash Fund,Dividend Reinvest,1005963.78
+2022-09,F003,Meezan Cash Fund,Sell,1260675.4300000002
+2022-09,F004,Meezan Balanced Fund,Buy,11376675.87
+2022-09,F004,Meezan Balanced Fund,Dividend Reinvest,84696.45000000001
+2022-09,F004,Meezan Balanced Fund,Sell,305194.68
+2022-09,F005,KSE Meezan Index Fund,Buy,37131980.54
+2022-09,F005,KSE Meezan Index Fund,Dividend Reinvest,69642.29
+2022-09,F005,KSE Meezan Index Fund,Sell,6194593.8100000005
+2022-09,F006,Meezan Gold Fund,Buy,11156969.65
+2022-09,F006,Meezan Gold Fund,Dividend Reinvest,124656.8
+2022-09,F006,Meezan Gold Fund,Sell,4808779.92
+2022-10,F001,Al Meezan Mutual Fund,Buy,9294928.38
+2022-10,F001,Al Meezan Mutual Fund,Dividend Reinvest,10732207.99
+2022-10,F001,Al Meezan Mutual Fund,Sell,3808761.86
+2022-10,F002,Meezan Islamic Income Fund,Buy,2769507.06
+2022-10,F002,Meezan Islamic Income Fund,Dividend Reinvest,230442.06
+2022-10,F002,Meezan Islamic Income Fund,Sell,1027102.55
+2022-10,F003,Meezan Cash Fund,Buy,1485175.5
+2022-10,F003,Meezan Cash Fund,Dividend Reinvest,1498649.47
+2022-10,F003,Meezan Cash Fund,Sell,1174821.55
+2022-10,F004,Meezan Balanced Fund,Buy,16851999.169999998
+2022-10,F004,Meezan Balanced Fund,Dividend Reinvest,71962.01000000001
+2022-10,F004,Meezan Balanced Fund,Sell,15512821.400000002
+2022-10,F005,KSE Meezan Index Fund,Buy,6364389.76
+2022-10,F005,KSE Meezan Index Fund,Dividend Reinvest,1596999.59
+2022-10,F005,KSE Meezan Index Fund,Sell,339212.65
+2022-10,F006,Meezan Gold Fund,Buy,3041127.1
+2022-10,F006,Meezan Gold Fund,Dividend Reinvest,975343.5499999999
+2022-10,F006,Meezan Gold Fund,Sell,670959.74
+2022-11,F001,Al Meezan Mutual Fund,Buy,16063046.88
+2022-11,F001,Al Meezan Mutual Fund,Sell,1009148.0
+2022-11,F002,Meezan Islamic Income Fund,Buy,2841608.14
+2022-11,F002,Meezan Islamic Income Fund,Dividend Reinvest,9478905.08
+2022-11,F002,Meezan Islamic Income Fund,Sell,9406472.88
+2022-11,F003,Meezan Cash Fund,Buy,19632283.04
+2022-11,F003,Meezan Cash Fund,Dividend Reinvest,304107.69
+2022-11,F003,Meezan Cash Fund,Sell,12758623.71
+2022-11,F004,Meezan Balanced Fund,Buy,2499254.17
+2022-11,F004,Meezan Balanced Fund,Dividend Reinvest,96745.66
+2022-11,F004,Meezan Balanced Fund,Sell,11183795.2
+2022-11,F005,KSE Meezan Index Fund,Buy,14596693.92
+2022-11,F005,KSE Meezan Index Fund,Dividend Reinvest,239648.24
+2022-11,F005,KSE Meezan Index Fund,Sell,835400.23
+2022-11,F006,Meezan Gold Fund,Buy,9134414.78
+2022-11,F006,Meezan Gold Fund,Dividend Reinvest,829473.69
+2022-11,F006,Meezan Gold Fund,Sell,236862.34999999998
+2022-12,F001,Al Meezan Mutual Fund,Buy,535698.36
+2022-12,F001,Al Meezan Mutual Fund,Dividend Reinvest,26918.45
+2022-12,F001,Al Meezan Mutual Fund,Sell,1461597.29
+2022-12,F002,Meezan Islamic Income Fund,Buy,13982508.700000001
+2022-12,F002,Meezan Islamic Income Fund,Dividend Reinvest,648573.69
+2022-12,F002,Meezan Islamic Income Fund,Sell,72423.55
+2022-12,F003,Meezan Cash Fund,Buy,13034705.15
+2022-12,F003,Meezan Cash Fund,Sell,67507.85
+2022-12,F004,Meezan Balanced Fund,Dividend Reinvest,879836.78
+2022-12,F004,Meezan Balanced Fund,Sell,1383384.55
+2022-12,F005,KSE Meezan Index Fund,Buy,12341130.379999999
+2022-12,F005,KSE Meezan Index Fund,Dividend Reinvest,1201704.96
+2022-12,F005,KSE Meezan Index Fund,Sell,5333087.7
+2022-12,F006,Meezan Gold Fund,Buy,1680335.02
+2022-12,F006,Meezan Gold Fund,Dividend Reinvest,14189799.87
+2022-12,F006,Meezan Gold Fund,Sell,21560660.65
+2023-01,F001,Al Meezan Mutual Fund,Buy,7679371.09
+2023-01,F001,Al Meezan Mutual Fund,Dividend Reinvest,7267386.62
+2023-01,F001,Al Meezan Mutual Fund,Sell,6421345.71
+2023-01,F002,Meezan Islamic Income Fund,Buy,29286623.119999997
+2023-01,F003,Meezan Cash Fund,Buy,20929689.77
+2023-01,F003,Meezan Cash Fund,Dividend Reinvest,9210551.42
+2023-01,F003,Meezan Cash Fund,Sell,229550.71000000002
+2023-01,F004,Meezan Balanced Fund,Buy,11064292.93
+2023-01,F004,Meezan Balanced Fund,Sell,288291.69999999995
+2023-01,F005,KSE Meezan Index Fund,Buy,5448072.05
+2023-01,F005,KSE Meezan Index Fund,Sell,15177931.73
+2023-01,F006,Meezan Gold Fund,Buy,18415291.419999998
+2023-01,F006,Meezan Gold Fund,Dividend Reinvest,119668.82
+2023-01,F006,Meezan Gold Fund,Sell,210367.12
+2023-02,F001,Al Meezan Mutual Fund,Buy,1999600.1099999999
+2023-02,F001,Al Meezan Mutual Fund,Sell,12425148.8
+2023-02,F002,Meezan Islamic Income Fund,Buy,14237224.08
+2023-02,F002,Meezan Islamic Income Fund,Sell,170307.79
+2023-02,F003,Meezan Cash Fund,Buy,17995670.759999998
+2023-02,F003,Meezan Cash Fund,Dividend Reinvest,973928.66
+2023-02,F003,Meezan Cash Fund,Sell,4232334.7
+2023-02,F004,Meezan Balanced Fund,Buy,1476998.09
+2023-02,F004,Meezan Balanced Fund,Dividend Reinvest,1156810.6500000001
+2023-02,F004,Meezan Balanced Fund,Sell,1633916.4300000002
+2023-02,F005,KSE Meezan Index Fund,Buy,17968889.84
+2023-02,F005,KSE Meezan Index Fund,Sell,9911068.78
+2023-02,F006,Meezan Gold Fund,Buy,3379950.04
+2023-02,F006,Meezan Gold Fund,Dividend Reinvest,100650.6
+2023-02,F006,Meezan Gold Fund,Sell,601736.98
+2023-03,F001,Al Meezan Mutual Fund,Buy,6486132.42
+2023-03,F001,Al Meezan Mutual Fund,Dividend Reinvest,53913.05
+2023-03,F001,Al Meezan Mutual Fund,Sell,16420678.35
+2023-03,F002,Meezan Islamic Income Fund,Buy,10786521.24
+2023-03,F002,Meezan Islamic Income Fund,Sell,8064962.64
+2023-03,F003,Meezan Cash Fund,Buy,289802.2
+2023-03,F003,Meezan Cash Fund,Sell,6114461.609999999
+2023-03,F004,Meezan Balanced Fund,Buy,10620297.9
+2023-03,F004,Meezan Balanced Fund,Sell,774955.71
+2023-03,F005,KSE Meezan Index Fund,Buy,2408176.08
+2023-03,F005,KSE Meezan Index Fund,Dividend Reinvest,10158141.079999998
+2023-03,F005,KSE Meezan Index Fund,Sell,3927152.79
+2023-03,F006,Meezan Gold Fund,Buy,1301709.99
+2023-03,F006,Meezan Gold Fund,Sell,1907080.61
+2023-04,F001,Al Meezan Mutual Fund,Buy,10241177.61
+2023-04,F001,Al Meezan Mutual Fund,Sell,1673893.1600000001
+2023-04,F002,Meezan Islamic Income Fund,Buy,11914684.02
+2023-04,F002,Meezan Islamic Income Fund,Sell,8212315.57
+2023-04,F003,Meezan Cash Fund,Buy,16200894.22
+2023-04,F003,Meezan Cash Fund,Dividend Reinvest,808271.28
+2023-04,F003,Meezan Cash Fund,Sell,38471.47
+2023-04,F004,Meezan Balanced Fund,Buy,8693603.53
+2023-04,F004,Meezan Balanced Fund,Dividend Reinvest,908498.86
+2023-04,F004,Meezan Balanced Fund,Sell,70909.35
+2023-04,F005,KSE Meezan Index Fund,Buy,14098837.59
+2023-04,F005,KSE Meezan Index Fund,Dividend Reinvest,1499465.52
+2023-04,F005,KSE Meezan Index Fund,Sell,10195881.370000001
+2023-04,F006,Meezan Gold Fund,Buy,1037325.1
+2023-04,F006,Meezan Gold Fund,Dividend Reinvest,35043.54
+2023-04,F006,Meezan Gold Fund,Sell,10287707.55
+2023-05,F001,Al Meezan Mutual Fund,Buy,8139683.47
+2023-05,F001,Al Meezan Mutual Fund,Dividend Reinvest,54734.79
+2023-05,F001,Al Meezan Mutual Fund,Sell,1729345.6800000002
+2023-05,F002,Meezan Islamic Income Fund,Buy,19576014.07
+2023-05,F002,Meezan Islamic Income Fund,Dividend Reinvest,506571.11
+2023-05,F002,Meezan Islamic Income Fund,Sell,76908.05
+2023-05,F003,Meezan Cash Fund,Buy,30931682.37
+2023-05,F003,Meezan Cash Fund,Sell,1187130.05
+2023-05,F004,Meezan Balanced Fund,Buy,1882257.75
+2023-05,F004,Meezan Balanced Fund,Dividend Reinvest,183829.79
+2023-05,F004,Meezan Balanced Fund,Sell,2144905.29
+2023-05,F005,KSE Meezan Index Fund,Buy,26420228.169999998
+2023-05,F005,KSE Meezan Index Fund,Sell,1337429.22
+2023-05,F006,Meezan Gold Fund,Buy,12747447.209999999
+2023-05,F006,Meezan Gold Fund,Dividend Reinvest,473074.57
+2023-05,F006,Meezan Gold Fund,Sell,230849.53999999998
+2023-06,F001,Al Meezan Mutual Fund,Buy,2370067.97
+2023-06,F001,Al Meezan Mutual Fund,Sell,78761.85
+2023-06,F002,Meezan Islamic Income Fund,Buy,14669338.430000002
+2023-06,F002,Meezan Islamic Income Fund,Dividend Reinvest,237305.53
+2023-06,F002,Meezan Islamic Income Fund,Sell,3955227.09
+2023-06,F003,Meezan Cash Fund,Buy,446570.07
+2023-06,F003,Meezan Cash Fund,Dividend Reinvest,190997.12
+2023-06,F003,Meezan Cash Fund,Sell,1431384.43
+2023-06,F004,Meezan Balanced Fund,Buy,1855533.52
+2023-06,F004,Meezan Balanced Fund,Dividend Reinvest,132294.46
+2023-06,F004,Meezan Balanced Fund,Sell,2120528.12
+2023-06,F005,KSE Meezan Index Fund,Buy,3640430.81
+2023-06,F005,KSE Meezan Index Fund,Sell,945924.69
+2023-06,F006,Meezan Gold Fund,Buy,15836616.84
+2023-06,F006,Meezan Gold Fund,Sell,626443.52
+2023-07,F001,Al Meezan Mutual Fund,Buy,2265682.35
+2023-07,F001,Al Meezan Mutual Fund,Dividend Reinvest,142910.06
+2023-07,F001,Al Meezan Mutual Fund,Sell,3172256.87
+2023-07,F002,Meezan Islamic Income Fund,Buy,29046495.98
+2023-07,F002,Meezan Islamic Income Fund,Dividend Reinvest,92957.09
+2023-07,F002,Meezan Islamic Income Fund,Sell,141984.97
+2023-07,F003,Meezan Cash Fund,Buy,2533573.87
+2023-07,F003,Meezan Cash Fund,Sell,1392615.23
+2023-07,F004,Meezan Balanced Fund,Buy,20029681.209999997
+2023-07,F004,Meezan Balanced Fund,Dividend Reinvest,38649.43
+2023-07,F004,Meezan Balanced Fund,Sell,30234.36
+2023-07,F005,KSE Meezan Index Fund,Buy,6193194.64
+2023-07,F005,KSE Meezan Index Fund,Dividend Reinvest,1591384.3299999998
+2023-07,F005,KSE Meezan Index Fund,Sell,12660761.71
+2023-07,F006,Meezan Gold Fund,Buy,7335309.43
+2023-07,F006,Meezan Gold Fund,Dividend Reinvest,81835.77
+2023-07,F006,Meezan Gold Fund,Sell,1744265.37
+2023-08,F001,Al Meezan Mutual Fund,Buy,12118084.98
+2023-08,F001,Al Meezan Mutual Fund,Dividend Reinvest,1007268.42
+2023-08,F001,Al Meezan Mutual Fund,Sell,20110104.89
+2023-08,F002,Meezan Islamic Income Fund,Buy,5981611.28
+2023-08,F002,Meezan Islamic Income Fund,Dividend Reinvest,6621292.41
+2023-08,F002,Meezan Islamic Income Fund,Sell,1093588.16
+2023-08,F003,Meezan Cash Fund,Buy,8073047.83
+2023-08,F003,Meezan Cash Fund,Sell,263763.85
+2023-08,F004,Meezan Balanced Fund,Buy,6180593.42
+2023-08,F004,Meezan Balanced Fund,Dividend Reinvest,14247868.37
+2023-08,F004,Meezan Balanced Fund,Sell,1250258.3900000001
+2023-08,F005,KSE Meezan Index Fund,Buy,20587322.41
+2023-08,F005,KSE Meezan Index Fund,Dividend Reinvest,1292211.02
+2023-08,F005,KSE Meezan Index Fund,Sell,10277911.209999999
+2023-08,F006,Meezan Gold Fund,Buy,19430633.96
+2023-08,F006,Meezan Gold Fund,Dividend Reinvest,1359045.58
+2023-08,F006,Meezan Gold Fund,Sell,2546593.13
+2023-09,F001,Al Meezan Mutual Fund,Buy,16715429.09
+2023-09,F001,Al Meezan Mutual Fund,Dividend Reinvest,1386481.03
+2023-09,F001,Al Meezan Mutual Fund,Sell,2304899.54
+2023-09,F002,Meezan Islamic Income Fund,Buy,10665844.48
+2023-09,F002,Meezan Islamic Income Fund,Dividend Reinvest,7097575.719999999
+2023-09,F002,Meezan Islamic Income Fund,Sell,16348089.26
+2023-09,F003,Meezan Cash Fund,Buy,8608055.42
+2023-09,F003,Meezan Cash Fund,Dividend Reinvest,4257184.149999999
+2023-09,F003,Meezan Cash Fund,Sell,7437770.569999999
+2023-09,F004,Meezan Balanced Fund,Buy,12200927.65
+2023-09,F004,Meezan Balanced Fund,Dividend Reinvest,1048475.63
+2023-09,F004,Meezan Balanced Fund,Sell,2892469.84
+2023-09,F005,KSE Meezan Index Fund,Buy,1960105.01
+2023-09,F005,KSE Meezan Index Fund,Dividend Reinvest,10715319.39
+2023-09,F005,KSE Meezan Index Fund,Sell,20592708.21
+2023-09,F006,Meezan Gold Fund,Buy,802126.41
+2023-09,F006,Meezan Gold Fund,Dividend Reinvest,1052055.1400000001
+2023-09,F006,Meezan Gold Fund,Sell,363497.27
+2023-10,F001,Al Meezan Mutual Fund,Buy,466459.9
+2023-10,F001,Al Meezan Mutual Fund,Dividend Reinvest,12478834.65
+2023-10,F001,Al Meezan Mutual Fund,Sell,13333577.840000002
+2023-10,F002,Meezan Islamic Income Fund,Buy,1366006.53
+2023-10,F002,Meezan Islamic Income Fund,Dividend Reinvest,1277557.24
+2023-10,F002,Meezan Islamic Income Fund,Sell,693615.17
+2023-10,F003,Meezan Cash Fund,Buy,4067157.95
+2023-10,F003,Meezan Cash Fund,Dividend Reinvest,181788.13
+2023-10,F003,Meezan Cash Fund,Sell,21251162.36
+2023-10,F004,Meezan Balanced Fund,Buy,2725520.06
+2023-10,F004,Meezan Balanced Fund,Dividend Reinvest,869875.5800000001
+2023-10,F004,Meezan Balanced Fund,Sell,82675.54000000001
+2023-10,F005,KSE Meezan Index Fund,Buy,10359858.209999999
+2023-10,F005,KSE Meezan Index Fund,Dividend Reinvest,5259902.06
+2023-10,F005,KSE Meezan Index Fund,Sell,3129920.85
+2023-10,F006,Meezan Gold Fund,Buy,17579528.880000003
+2023-10,F006,Meezan Gold Fund,Sell,7346204.199999999
+2023-11,F001,Al Meezan Mutual Fund,Buy,13765392.03
+2023-11,F001,Al Meezan Mutual Fund,Dividend Reinvest,187605.66999999998
+2023-11,F001,Al Meezan Mutual Fund,Sell,363809.82
+2023-11,F002,Meezan Islamic Income Fund,Buy,9449278.42
+2023-11,F002,Meezan Islamic Income Fund,Dividend Reinvest,91358.76
+2023-11,F002,Meezan Islamic Income Fund,Sell,10361317.15
+2023-11,F003,Meezan Cash Fund,Buy,11894007.79
+2023-11,F003,Meezan Cash Fund,Dividend Reinvest,92804.39
+2023-11,F003,Meezan Cash Fund,Sell,1371874.18
+2023-11,F004,Meezan Balanced Fund,Buy,23725540.67
+2023-11,F004,Meezan Balanced Fund,Sell,139226.27
+2023-11,F005,KSE Meezan Index Fund,Buy,14827228.93
+2023-11,F005,KSE Meezan Index Fund,Dividend Reinvest,1817963.08
+2023-11,F005,KSE Meezan Index Fund,Sell,1228994.6800000002
+2023-11,F006,Meezan Gold Fund,Buy,41301746.36
+2023-11,F006,Meezan Gold Fund,Dividend Reinvest,149179.67
+2023-11,F006,Meezan Gold Fund,Sell,12947207.69
+2023-12,F001,Al Meezan Mutual Fund,Buy,13207776.909999998
+2023-12,F001,Al Meezan Mutual Fund,Dividend Reinvest,36547.1
+2023-12,F001,Al Meezan Mutual Fund,Sell,200555.29
+2023-12,F002,Meezan Islamic Income Fund,Buy,8167270.9799999995
+2023-12,F002,Meezan Islamic Income Fund,Dividend Reinvest,100682.23
+2023-12,F002,Meezan Islamic Income Fund,Sell,1298654.54
+2023-12,F003,Meezan Cash Fund,Buy,2985072.25
+2023-12,F003,Meezan Cash Fund,Dividend Reinvest,124464.82
+2023-12,F003,Meezan Cash Fund,Sell,12371044.35
+2023-12,F004,Meezan Balanced Fund,Buy,1598452.5400000003
+2023-12,F004,Meezan Balanced Fund,Dividend Reinvest,930413.51
+2023-12,F004,Meezan Balanced Fund,Sell,8296876.960000001
+2023-12,F005,KSE Meezan Index Fund,Buy,11792506.19
+2023-12,F005,KSE Meezan Index Fund,Dividend Reinvest,127001.84
+2023-12,F005,KSE Meezan Index Fund,Sell,10447511.420000002
+2023-12,F006,Meezan Gold Fund,Buy,1465833.9500000002
+2023-12,F006,Meezan Gold Fund,Sell,320245.65
+2024-01,F001,Al Meezan Mutual Fund,Buy,8798328.61
+2024-01,F001,Al Meezan Mutual Fund,Dividend Reinvest,226541.26
+2024-01,F001,Al Meezan Mutual Fund,Sell,426340.65
+2024-01,F002,Meezan Islamic Income Fund,Buy,15819372.39
+2024-01,F002,Meezan Islamic Income Fund,Dividend Reinvest,240901.32
+2024-01,F002,Meezan Islamic Income Fund,Sell,7585513.859999999
+2024-01,F003,Meezan Cash Fund,Buy,3921157.18
+2024-01,F003,Meezan Cash Fund,Sell,1149562.94
+2024-01,F004,Meezan Balanced Fund,Buy,20146188.17
+2024-01,F004,Meezan Balanced Fund,Sell,863244.48
+2024-01,F005,KSE Meezan Index Fund,Buy,19054314.39
+2024-01,F005,KSE Meezan Index Fund,Dividend Reinvest,130382.86
+2024-01,F005,KSE Meezan Index Fund,Sell,1064456.5799999998
+2024-01,F006,Meezan Gold Fund,Buy,5515538.5600000005
+2024-01,F006,Meezan Gold Fund,Sell,798921.23
+2024-02,F001,Al Meezan Mutual Fund,Buy,1533262.27
+2024-02,F001,Al Meezan Mutual Fund,Sell,124945.54
+2024-02,F002,Meezan Islamic Income Fund,Buy,14418972.489999998
+2024-02,F002,Meezan Islamic Income Fund,Dividend Reinvest,12055925.23
+2024-02,F002,Meezan Islamic Income Fund,Sell,958076.68
+2024-02,F003,Meezan Cash Fund,Buy,849228.24
+2024-02,F003,Meezan Cash Fund,Dividend Reinvest,89342.06
+2024-02,F003,Meezan Cash Fund,Sell,100454.51
+2024-02,F004,Meezan Balanced Fund,Buy,14966686.370000001
+2024-02,F004,Meezan Balanced Fund,Dividend Reinvest,4924145.33
+2024-02,F004,Meezan Balanced Fund,Sell,6418049.72
+2024-02,F005,KSE Meezan Index Fund,Buy,13775998.7
+2024-02,F005,KSE Meezan Index Fund,Sell,177089.35
+2024-02,F006,Meezan Gold Fund,Buy,7998999.91
+2024-02,F006,Meezan Gold Fund,Sell,479112.09
+2024-03,F001,Al Meezan Mutual Fund,Buy,11360237.48
+2024-03,F001,Al Meezan Mutual Fund,Dividend Reinvest,7492295.220000001
+2024-03,F001,Al Meezan Mutual Fund,Sell,358127.97
+2024-03,F002,Meezan Islamic Income Fund,Buy,21868441.490000002
+2024-03,F002,Meezan Islamic Income Fund,Dividend Reinvest,2624021.51
+2024-03,F002,Meezan Islamic Income Fund,Sell,8252564.1
+2024-03,F003,Meezan Cash Fund,Buy,2834469.59
+2024-03,F003,Meezan Cash Fund,Dividend Reinvest,203802.62
+2024-03,F003,Meezan Cash Fund,Sell,13675542.790000001
+2024-03,F004,Meezan Balanced Fund,Buy,337349.35
+2024-03,F004,Meezan Balanced Fund,Dividend Reinvest,6470355.5600000005
+2024-03,F004,Meezan Balanced Fund,Sell,1687541.55
+2024-03,F005,KSE Meezan Index Fund,Buy,19507033.54
+2024-03,F005,KSE Meezan Index Fund,Dividend Reinvest,92848.38
+2024-03,F005,KSE Meezan Index Fund,Sell,237473.27000000002
+2024-03,F006,Meezan Gold Fund,Buy,10497551.95
+2024-03,F006,Meezan Gold Fund,Dividend Reinvest,5322685.21
+2024-03,F006,Meezan Gold Fund,Sell,260686.97999999998
+2024-04,F001,Al Meezan Mutual Fund,Buy,16461085.049999999
+2024-04,F001,Al Meezan Mutual Fund,Dividend Reinvest,319134.28
+2024-04,F001,Al Meezan Mutual Fund,Sell,12827979.360000001
+2024-04,F002,Meezan Islamic Income Fund,Buy,22431151.39
+2024-04,F002,Meezan Islamic Income Fund,Sell,317436.91000000003
+2024-04,F003,Meezan Cash Fund,Buy,3864297.3000000003
+2024-04,F003,Meezan Cash Fund,Dividend Reinvest,115280.66
+2024-04,F003,Meezan Cash Fund,Sell,393692.31
+2024-04,F004,Meezan Balanced Fund,Buy,4177040.04
+2024-04,F004,Meezan Balanced Fund,Dividend Reinvest,20365270.78
+2024-04,F004,Meezan Balanced Fund,Sell,9326024.15
+2024-04,F005,KSE Meezan Index Fund,Buy,14442351.22
+2024-04,F005,KSE Meezan Index Fund,Dividend Reinvest,3933906.4400000004
+2024-04,F005,KSE Meezan Index Fund,Sell,12581829.999999998
+2024-04,F006,Meezan Gold Fund,Buy,3724236.0
+2024-04,F006,Meezan Gold Fund,Dividend Reinvest,80741.5
+2024-04,F006,Meezan Gold Fund,Sell,14713546.12
+2024-05,F001,Al Meezan Mutual Fund,Buy,16009534.02
+2024-05,F001,Al Meezan Mutual Fund,Dividend Reinvest,46966.42
+2024-05,F001,Al Meezan Mutual Fund,Sell,1283857.5699999998
+2024-05,F002,Meezan Islamic Income Fund,Buy,5629626.06
+2024-05,F002,Meezan Islamic Income Fund,Sell,136222.14
+2024-05,F003,Meezan Cash Fund,Buy,2266429.0100000002
+2024-05,F003,Meezan Cash Fund,Dividend Reinvest,125279.39
+2024-05,F003,Meezan Cash Fund,Sell,10495932.13
+2024-05,F004,Meezan Balanced Fund,Buy,11027587.08
+2024-05,F004,Meezan Balanced Fund,Dividend Reinvest,187656.94
+2024-05,F004,Meezan Balanced Fund,Sell,1212664.3800000001
+2024-05,F005,KSE Meezan Index Fund,Buy,1432339.42
+2024-05,F005,KSE Meezan Index Fund,Dividend Reinvest,47150.3
+2024-05,F005,KSE Meezan Index Fund,Sell,13611909.42
+2024-05,F006,Meezan Gold Fund,Buy,10554937.58
+2024-05,F006,Meezan Gold Fund,Dividend Reinvest,296229.74
+2024-05,F006,Meezan Gold Fund,Sell,37011104.79
+2024-06,F001,Al Meezan Mutual Fund,Buy,4777155.87
+2024-06,F001,Al Meezan Mutual Fund,Dividend Reinvest,193476.07
+2024-06,F001,Al Meezan Mutual Fund,Sell,11019500.42
+2024-06,F002,Meezan Islamic Income Fund,Buy,5115444.83
+2024-06,F002,Meezan Islamic Income Fund,Dividend Reinvest,101678.54
+2024-06,F002,Meezan Islamic Income Fund,Sell,13630018.68
+2024-06,F003,Meezan Cash Fund,Buy,13758269.41
+2024-06,F003,Meezan Cash Fund,Sell,1098449.37
+2024-06,F004,Meezan Balanced Fund,Buy,1810075.83
+2024-06,F004,Meezan Balanced Fund,Dividend Reinvest,921075.16
+2024-06,F004,Meezan Balanced Fund,Sell,276101.86
+2024-06,F005,KSE Meezan Index Fund,Buy,8699488.88
+2024-06,F005,KSE Meezan Index Fund,Sell,3550753.25
+2024-06,F006,Meezan Gold Fund,Buy,15006646.33
+2024-06,F006,Meezan Gold Fund,Dividend Reinvest,144998.21
+2024-06,F006,Meezan Gold Fund,Sell,183803.65999999997
+2024-07,F001,Al Meezan Mutual Fund,Buy,10583813.31
+2024-07,F001,Al Meezan Mutual Fund,Dividend Reinvest,141879.06
+2024-07,F001,Al Meezan Mutual Fund,Sell,1443505.8299999998
+2024-07,F002,Meezan Islamic Income Fund,Buy,1684606.44
+2024-07,F002,Meezan Islamic Income Fund,Sell,17778166.84
+2024-07,F003,Meezan Cash Fund,Buy,7425082.34
+2024-07,F003,Meezan Cash Fund,Sell,14533541.63
+2024-07,F004,Meezan Balanced Fund,Buy,22890603.3
+2024-07,F004,Meezan Balanced Fund,Dividend Reinvest,1806375.05
+2024-07,F004,Meezan Balanced Fund,Sell,711758.46
+2024-07,F005,KSE Meezan Index Fund,Buy,1146115.1099999999
+2024-07,F005,KSE Meezan Index Fund,Dividend Reinvest,190901.59000000003
+2024-07,F005,KSE Meezan Index Fund,Sell,615863.1900000001
+2024-07,F006,Meezan Gold Fund,Buy,2241978.39
+2024-07,F006,Meezan Gold Fund,Dividend Reinvest,1183613.53
+2024-07,F006,Meezan Gold Fund,Sell,16159496.350000001
+2024-08,F001,Al Meezan Mutual Fund,Buy,13191736.040000001
+2024-08,F001,Al Meezan Mutual Fund,Dividend Reinvest,8994542.15
+2024-08,F001,Al Meezan Mutual Fund,Sell,11312996.040000001
+2024-08,F002,Meezan Islamic Income Fund,Buy,2210942.0700000003
+2024-08,F002,Meezan Islamic Income Fund,Dividend Reinvest,820041.27
+2024-08,F002,Meezan Islamic Income Fund,Sell,1151948.87
+2024-08,F003,Meezan Cash Fund,Buy,10293066.170000002
+2024-08,F003,Meezan Cash Fund,Dividend Reinvest,1497611.2100000002
+2024-08,F003,Meezan Cash Fund,Sell,2623966.2800000003
+2024-08,F004,Meezan Balanced Fund,Buy,2655338.2399999998
+2024-08,F004,Meezan Balanced Fund,Sell,1204204.6
+2024-08,F005,KSE Meezan Index Fund,Buy,1977382.8499999999
+2024-08,F005,KSE Meezan Index Fund,Dividend Reinvest,141926.8
+2024-08,F005,KSE Meezan Index Fund,Sell,1667138.55
+2024-08,F006,Meezan Gold Fund,Buy,7195523.67
+2024-08,F006,Meezan Gold Fund,Dividend Reinvest,13617462.26
+2024-08,F006,Meezan Gold Fund,Sell,246270.1
+2024-09,F001,Al Meezan Mutual Fund,Buy,9825256.180000002
+2024-09,F001,Al Meezan Mutual Fund,Dividend Reinvest,1456450.06
+2024-09,F001,Al Meezan Mutual Fund,Sell,432609.78
+2024-09,F002,Meezan Islamic Income Fund,Buy,12849468.959999999
+2024-09,F002,Meezan Islamic Income Fund,Sell,12236424.46
+2024-09,F003,Meezan Cash Fund,Buy,6480895.779999999
+2024-09,F003,Meezan Cash Fund,Dividend Reinvest,46714.0
+2024-09,F003,Meezan Cash Fund,Sell,1197879.42
+2024-09,F004,Meezan Balanced Fund,Buy,2149598.48
+2024-09,F004,Meezan Balanced Fund,Sell,4760887.220000001
+2024-09,F005,KSE Meezan Index Fund,Buy,10430800.809999999
+2024-09,F005,KSE Meezan Index Fund,Dividend Reinvest,4034527.1
+2024-09,F005,KSE Meezan Index Fund,Sell,2971765.14
+2024-09,F006,Meezan Gold Fund,Buy,1462036.01
+2024-09,F006,Meezan Gold Fund,Sell,149664.16
+2024-10,F001,Al Meezan Mutual Fund,Buy,16303222.33
+2024-10,F001,Al Meezan Mutual Fund,Dividend Reinvest,63009.25
+2024-10,F001,Al Meezan Mutual Fund,Sell,71994.81
+2024-10,F002,Meezan Islamic Income Fund,Buy,545171.56
+2024-10,F002,Meezan Islamic Income Fund,Dividend Reinvest,82221.11
+2024-10,F002,Meezan Islamic Income Fund,Sell,129174.22
+2024-10,F003,Meezan Cash Fund,Buy,5743819.82
+2024-10,F003,Meezan Cash Fund,Dividend Reinvest,88930.0
+2024-10,F003,Meezan Cash Fund,Sell,1133820.23
+2024-10,F004,Meezan Balanced Fund,Buy,16091992.39
+2024-10,F004,Meezan Balanced Fund,Dividend Reinvest,80051.98
+2024-10,F004,Meezan Balanced Fund,Sell,7386645.66
+2024-10,F005,KSE Meezan Index Fund,Buy,14297337.83
+2024-10,F005,KSE Meezan Index Fund,Dividend Reinvest,104581.52
+2024-10,F005,KSE Meezan Index Fund,Sell,218144.63
+2024-10,F006,Meezan Gold Fund,Buy,2808757.6799999997
+2024-10,F006,Meezan Gold Fund,Dividend Reinvest,14831440.31
+2024-10,F006,Meezan Gold Fund,Sell,171661.41
+2024-11,F001,Al Meezan Mutual Fund,Buy,13363072.719999999
+2024-11,F001,Al Meezan Mutual Fund,Dividend Reinvest,47826.55
+2024-11,F001,Al Meezan Mutual Fund,Sell,21602325.009999998
+2024-11,F002,Meezan Islamic Income Fund,Buy,10762265.19
+2024-11,F002,Meezan Islamic Income Fund,Dividend Reinvest,167132.43
+2024-11,F002,Meezan Islamic Income Fund,Sell,207657.9
+2024-11,F003,Meezan Cash Fund,Buy,1547400.43
+2024-11,F003,Meezan Cash Fund,Dividend Reinvest,4822359.72
+2024-11,F003,Meezan Cash Fund,Sell,18223477.71
+2024-11,F004,Meezan Balanced Fund,Buy,14389256.28
+2024-11,F004,Meezan Balanced Fund,Dividend Reinvest,3864113.0300000003
+2024-11,F004,Meezan Balanced Fund,Sell,305904.23
+2024-11,F005,KSE Meezan Index Fund,Buy,1737694.23
+2024-11,F005,KSE Meezan Index Fund,Dividend Reinvest,51224.25
+2024-11,F005,KSE Meezan Index Fund,Sell,8179349.55
+2024-11,F006,Meezan Gold Fund,Buy,11676502.73
+2024-11,F006,Meezan Gold Fund,Dividend Reinvest,13576279.58
+2024-11,F006,Meezan Gold Fund,Sell,9349655.71
+2024-12,F001,Al Meezan Mutual Fund,Buy,1752645.55
+2024-12,F001,Al Meezan Mutual Fund,Sell,1330066.8599999999
+2024-12,F002,Meezan Islamic Income Fund,Buy,3420595.2199999997
+2024-12,F002,Meezan Islamic Income Fund,Sell,116653.35
+2024-12,F003,Meezan Cash Fund,Buy,11083112.02
+2024-12,F003,Meezan Cash Fund,Sell,1637588.32
+2024-12,F004,Meezan Balanced Fund,Buy,3751684.24
+2024-12,F004,Meezan Balanced Fund,Dividend Reinvest,878332.55
+2024-12,F004,Meezan Balanced Fund,Sell,91527.89
+2024-12,F005,KSE Meezan Index Fund,Buy,16755212.280000001
+2024-12,F005,KSE Meezan Index Fund,Dividend Reinvest,3182076.44
+2024-12,F005,KSE Meezan Index Fund,Sell,64857.29
+2024-12,F006,Meezan Gold Fund,Buy,2031271.2400000002
+2024-12,F006,Meezan Gold Fund,Dividend Reinvest,1272603.94
+2024-12,F006,Meezan Gold Fund,Sell,1068174.22
